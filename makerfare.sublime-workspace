@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"deliver",
+				"deliverHiVideo()	content.js"
+			],
+			[
+				"not",
+				"notSupported"
+			],
+			[
+				"each",
+				"each( callback, args )	jquery.js"
+			],
+			[
+				"vid",
+				"videos"
+			],
+			[
+				"chan",
+				"changeStatus"
+			],
+			[
+				"change",
+				"changeStatus(currentStatus)	content.js"
+			],
+			[
+				"de",
+				"deliverLoVideo"
+			],
+			[
+				"chil",
+				"children( elem )	jquery.js"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"vido",
+				"videoId"
+			],
+			[
+				"sho",
+				"show()	jquery.js"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"hi",
+				"hiImage"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"video",
+				"videoId"
+			],
+			[
+				"ap",
+				"appendTo"
+			],
+			[
+				"vide",
+				"video"
+			],
+			[
+				"deliv",
+				"deliverLoVideo"
+			],
+			[
+				"modu",
+				"module"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"appen",
+				"append()	jquery.js"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"v",
+				"video"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"css",
+				"css( name, value )	jquery.js"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"lo",
+				"lower"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"lightbox",
+				"lightbox()	content.js"
+			],
+			[
+				"arro",
+				"arrows"
+			],
+			[
+				"ar",
+				"arrows"
+			],
+			[
+				"the",
+				"the-background"
+			],
+			[
+				"wind",
+				"windowWidth"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"m",
+				"module	QUnit module"
+			],
+			[
+				"onMo",
+				"onMouseUp(event)	main.js"
+			],
+			[
+				"Name",
+				"NameError	(builtin, class)"
+			],
+			[
+				"arti",
+				"articleTag"
+			],
+			[
+				"articleTo",
+				"articleToAdd	(global, instance)"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"getOU",
+				"getOuterHeight"
+			],
+			[
+				"getOut",
+				"getOuterWidth"
+			],
+			[
+				"temp",
+				"tempString"
+			],
+			[
+				"endl",
+				"endlessText"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"start",
+				"startVec"
+			],
+			[
+				"currenV",
+				"currentView(articles, clickedLinkOffsetTop)	main.js"
+			],
+			[
+				"typeof",
+				"typeof"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"offs",
+				"offsetY"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"heigh",
+				"heightRatio"
+			],
+			[
+				"boxes",
+				"boxesContent"
+			],
+			[
+				"display",
+				"displayOneArticle(id, posX, posY)	main.js"
+			],
+			[
+				"o",
+				"ok(value, message)	assert.js"
+			],
+			[
+				"ad",
+				"add(externalVector)	main.js"
+			],
+			[
+				"or",
+				"origin"
+			],
+			[
+				"luk",
+				"lukeVector(inputX, inputY)	main.js"
+			],
+			[
+				"sc",
+				"scroller"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"luve",
+				"lukeVector(inputX, inputY)	main.js"
+			],
+			[
+				"set",
+				"setY(y)	main.js"
+			],
+			[
+				"add",
+				"addX(x)	main.js"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"men",
+				"menuContainer"
+			],
+			[
+				"target",
+				"targetFile	(global, instance)"
+			],
+			[
+				"boxe",
+				"boxesTag"
+			],
+			[
+				"targ",
+				"targetFile"
+			],
+			[
+				"wr",
+				"write	(builtin, function)"
+			],
+			[
+				"sou",
+				"soup	(imported, instance)"
+			],
+			[
+				"work",
+				"workFolder	(global, instance)"
+			],
+			[
+				"file",
+				"filename	(global, instance)"
+			],
+			[
+				"ope",
+				"open	(builtin, class)"
+			],
+			[
+				"lxml",
+				"lxml	(imported, module)"
+			],
+			[
+				"html5",
+				"html5lib	(imported, module)"
+			],
+			[
+				"htm",
+				"htmlFragment	(global, instance)"
+			],
+			[
+				"wor",
+				"workFolder	(global, instance)"
+			],
+			[
+				"templ",
+				"templatePath	(global, instance)"
+			],
+			[
+				"copy",
+				"copytree	(imported, instance)"
+			],
+			[
+				"impor",
+				"import	(keyword, instance)"
+			],
+			[
+				"web",
+				"websiteFolder"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"engli",
+				"englishPath	(global, instance)"
+			],
+			[
+				"exi",
+				"exit	(builtin, instance)"
+			],
+			[
+				"else",
+				"else	(keyword, instance)"
+			],
+			[
+				"german",
+				"germanPath	(global, instance)"
+			],
+			[
+				"en",
+				"englishPath	(global, instance)"
+			],
+			[
+				"template",
+				"templatePath	(global, instance)"
+			],
+			[
+				"basePath",
+				"basePath	(global, instance)"
+			],
+			[
+				"path",
+				"path	(imported, module)"
+			],
+			[
+				"lastm",
+				"lastMenuPos"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"articl",
+				"articles"
+			],
+			[
+				"artic",
+				"articles"
+			],
+			[
+				"resize",
+				"resizeMap()	main.js"
+			],
+			[
+				"width",
+				"widthRatio"
+			],
+			[
+				"up",
+				"updateMap()	main.js"
+			],
+			[
+				"luke",
+				"lukeVector"
+			],
+			[
+				"lukeV",
+				"lukeVector(inputX, inputY)	main.js"
+			],
+			[
+				"me",
+				"menuContainer"
+			],
+			[
+				"rig",
+				"rightArticlesOrder(articles)	main.js"
+			],
+			[
+				"wrong",
+				"wrongArticles"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"articleH",
+				"articleHoverZindexIn"
+			],
+			[
+				"last",
+				"lastMousePos"
+			],
+			[
+				"onM",
+				"onMouseUp(event)	main.js"
+			],
+			[
+				"on",
+				"onMouseDown(event)	main.js"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"menu",
+				"menuContainerHeight"
+			],
+			[
+				"out",
+				"outerWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "template/index.html",
+			"settings":
+			{
+				"buffer_size": 1760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/css/main.scss",
+			"settings":
+			{
+				"buffer_size": 6241,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 102.0,
+		"selected_items":
+		[
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"set sy ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set sy d",
+				"Set Syntax: Diff"
+			],
+			[
+				"set s ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set s htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"htmle",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"st html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set sy jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"insta ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"HTML",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"HTM",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"set le",
+				"Set Syntax: LESS"
+			],
+			[
+				"co",
+				"Color picker"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"HT",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"h",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set l",
+				"Set Syntax: LESS"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML5"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/faebser/workspace/makerfare/template/css/main.css",
+		"/home/faebser/workspace/makerfare/template/css/main.scss",
+		"/home/faebser/workspace/makerfare/index.html",
+		"/home/faebser/OIworkspace/unserstadtbild.ch/trunk/docroot/stadtbild/js/content.js",
+		"/home/faebser/OIworkspace/theamberroom/images/fromtheamberrom.gif",
+		"/home/faebser/OIworkspace/theamberroom/screens/Splash_Preview.png",
+		"/home/faebser/workspace/luke/WebContent/specialBoxes/statement_en.txt",
+		"/home/faebser/workspace/luke/WebContent/template/css/main.css",
+		"/home/faebser/workspace/luke/WebContent/template/css/minimum/style.css",
+		"/home/faebser/workspace/luke/WebContent/work/improvisation_for_prepared_consumer_electronics_en.txt",
+		"/home/faebser/workspace/luke/WebContent/working/css/minimum/theme_id.diz",
+		"/home/faebser/workspace/luke/WebContent/template/index.html",
+		"/home/faebser/workspace/luke/WebContent/work/elektronikfachgeschaeft_en.txt",
+		"/home/faebser/workspace/luke/WebContent/working/index.html",
+		"/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/faebser/workspace/luke/WebContent/work/atypi_trailer_en.txt",
+		"/home/faebser/workspace/luke/WebContent/work/paketzentrum47_en.txt",
+		"/home/faebser/workspace/luke/WebContent/website/av/paketzentrum47.mp4",
+		"/home/faebser/workspace/luke/WebContent/template/js/vendor/projekktor-1.2.16r178.min.js",
+		"/home/faebser/workspace/luke/WebContent/specialBoxes/friends.txt",
+		"/home/faebser/workspace/luke/WebContent/work/translokales_rundfunkorchester_en.txt",
+		"/home/faebser/workspace/luke/WebContent/articleRobotDoesTheWork.py",
+		"/home/faebser/workspace/luke/WebContent/website/index.html",
+		"/home/faebser/workspace/luke/WebContent/template/css/color.css",
+		"/home/faebser/workspace/luke/WebContent/template/css/lato-reg-webfont.ttf",
+		"/home/faebser/workspace/luke/WebContent/.gitignore",
+		"/home/faebser/workspace/luke/WebContent/work/atypi_trailer.txt",
+		"/home/faebser/workspace/luke/WebContent/template/js/plugins.js",
+		"/home/faebser/workspace/luke/WebContent/template/css/normalize.css",
+		"/home/faebser/workspace/luke/WebContent/template/js/main.js",
+		"/home/faebser/workspace/luke/WebContent/template/css/main.less",
+		"/home/faebser/workspace/luke/WebContent/template/js/vendor/jquery-ui.min.js",
+		"/home/faebser/workspace/luke/WebContent/template/js/vendor/jquery-1.7.2.min.js",
+		"/home/faebser/workspace/luke/WebContent/template/js/custom-scrollbar-plugin/jquery/jquery-1.8.3.min.js",
+		"/home/faebser/workspace/luke/WebContent/template/js/custom-scrollbar-plugin/readme.txt",
+		"/home/faebser/workspace/luke/WebContent/css/main.less",
+		"/home/faebser/workspace/luke/WebContent/index.html",
+		"/home/faebser/workspace/luke/WebContent/js/main.js",
+		"/home/faebser/workspace/luke/WebContent/work/serious_sirius.txt",
+		"/home/faebser/workspace/luke/WebContent/css/lato-reg-webfont.ttf",
+		"/home/faebser/workspace/luke/WebContent/apple-touch-icon-57x57-precomposed.png",
+		"/home/faebser/workspace/luke/WebContent/js/plugins.js",
+		"/home/faebser/workspace/luke/WebContent/js/vendor/raphael-min.js",
+		"/home/faebser/workspace/luke/WebContent/work/bewegte_schrift.txt",
+		"/home/faebser/workspace/luke/WebContent/work/elektronikfachgeschäft.txt",
+		"/home/faebser/workspace/faesslerUndHorst/wp-content/themes/faesslerhorst/js/plugins.js",
+		"/home/faebser/workspace/faesslerUndHorst/wp-content/themes/faesslerhorst/js/script.js",
+		"/home/faebser/workspace/cristianTextCounter/text.txt",
+		"/home/faebser/workspace/cristianTextCounter/result.txt",
+		"/home/faebser/workspace/cristianTextCounter/counter.py",
+		"/home/faebser/workspace/cristianTextCounter/python-docx/README.markdown",
+		"/home/faebser/Downloads/Trainingsstrecken_97-138_Lehrerversion_2012-12-06.docx",
+		"/home/faebser/workspace/luke/WebContent/css/normalize.css",
+		"/home/faebser/workspace/luke/WebContent/css/stylesheet.css",
+		"/home/faebser/workspace/luke/WebContent/css/main.css",
+		"/home/faebser/OIworkspace/lso-sketch/lso.sublime-project",
+		"/home/faebser/workspace/resume/WebContent/resume.sublime-project",
+		"/home/faebser/workspace/resume/WebContent/webfonts/stylesheet.less",
+		"/home/faebser/workspace/resume/WebContent/css/normalize.less",
+		"/home/faebser/workspace/resume/WebContent/webfonts/stylesheet.css",
+		"/home/faebser/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/faebser/.config/sublime-text-2/Packages/User/html5bplt.sublime-build",
+		"/home/faebser/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/faebser/Downloads/geki/JuAr_Basel_Background.svg",
+		"/home/faebser/Downloads/geki/js.js",
+		"/home/faebser/Downloads/geki/New Tab.html",
+		"/home/faebser/Downloads/geki/juarBackgroundSvg.js",
+		"/home/faebser/Downloads/geki/raphael/raphael.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"console.log(video.attr(\"autoplay\"));",
+			"prop",
+			"next",
+			"class",
+			"$(this).attr(\"href\").substring(1)",
+			"article",
+			"ppdisp",
+			"paket",
+			"type",
+			"console.log",
+			"none",
+			"lenght",
+			"article.content",
+			"firstClickMess",
+			"returnMessyVector",
+			"targetFile",
+			"targetHtml",
+			"filename",
+			"englishPath",
+			"basePath",
+			"100%",
+			"</span>",
+			"<span>",
+			"1",
+			"));\n",
+			"		\n",
+			"Dornröschen schlief 100 Jahre, bevor sie von ihrem Prinzen wachgeküsst \n  wurde. Nicht ganz so viele Jahre, aber immerhin ein Drittel unserer Lebenszeit \n  verschlafen wir. Für manch einen ist der Schlaf Erholung pur. Albträume oder \n    Schlaflosigkeit können uns aber ganz schön zu schaffen machen. \nDer Mensch verbringt etwa einen Drittel seines Lebens mit Schlafen. Jede Nacht \nschläft ein Erwachsener ungefähr sechs bis acht Stunden. Bei Kindern und \n  Jugendlichen ist es sogar mehr. Säuglinge beispielsweise schlafen bis zu 18 Stunden \n   am Tag! Aber auch viele Tiere verbringen viel Zeit mit Schlafen. So schlafen Katzen \n   beispielsweise durchschnittlich über 13 Stunden pro Tag. Menschen und Tiere\n   verbringen also viel Zeit mit Schlafen – und ganz sicher nicht grundlos.\nDer Schlaf hat für Lebewesen aller Art nämlich eine wichtige Funktion: Er dient der\n  körperlichen und geistigen Erholung. Wer schon einmal eine Nacht durchgemacht\n   hat oder nicht schlafen konnte, weiss, wie unangenehm die Folgen von \n   Schlafmangel sind. Wir fühlen uns sowohl geistig als auch körperlich schlapp und \n     sind nicht voll leistungsfähig. Das ist anders, wenn man schläft. Im Vergleich zum \n       Wachzustand sinken Pulsschlag und Blutdruck dann und der Atemrhythmus \n       verlangsamt sich. Das Schliessen der Augen unterstützt diese Körperfunktionen. \nTodesstrafe Schlafentzug.\nIn Studien wurde untersucht, was passiert, wenn Menschen am Schlafen gehindert\nwerden. Nach 64 Stunden ohne Schlaf traten bei den Versuchspersonen\nWahnvorstellungen auf. Die Menschen nahmen Dinge wahr, die es nicht gab. Bei\nRatten wurde beobachtet, dass sie nach sieben Tagen ohne Schlaf sogar sterben.\nSchlafentzug wurde und wird deswegen auch als Foltermethode eingesetzt. Der\nSchlaf ist für uns offensichtlich lebensnotwendig. Bekommt man zu wenig Schlaf,\nhat das für Lebewesen ernsthafte Folgen.\nEs gibt verschiedene Erklärungen, warum der Schlaf für Mensch und Tier so\nlebenswichtig ist. Zum einen können sich die Organe während dieser Zeit erholen.\nZum anderen werden Erlebnisse in Träumen verarbeitet, im Gedächtnis\nabgespeichert oder gelöscht. Dann gibt es auch die Erklärung, dass Schlaf wichtig\nfür das Zusammenleben der Lebewesen auf der Erde ist. Dieser Erklärung zufolge\nschlafen Raubkatzen bis zu 17 Stunden am Tag, um ihren Beutetieren eine Pause zu\ngönnen, in der sie sich von der Jagd erholen können.\nSchlaf ist nicht gleich Schlaf.\nWährend einer Nacht durchlaufen wir drei Schlafphasen: Leichtschlaf, Tiefschlaf\nund die sogenannte REM-Phase. Der Leichtschlaf tritt kurz nach dem Einschlafen\nauf. Die Muskelspannung nimmt ab. Wir nehmen die Umgebung allmählich nicht\nmehr bewusst wahr. Auf dem Weg zum Tiefschlaf nimmt die Muskelspannung\nweiter ab, bis wir uns im Tiefschlaf befinden. In dieser Schlafphase kann es\npassieren, dass wir im Schlaf sprechen oder schlafwandeln. In der REM-Phase\nkommt es zu schnellen Hin- und Herbewegungen der geschlossenen Augen\n(Englisch: „Rapid Eye Movement“ – auf Deutsch: „schnelle Augenbewegungen“).\nIn dieser Phase träumen wir besonders lebhaft. Da alle unsere Muskeln (ausser\nAugen- und Atemmuskulatur) aber vollkommen entspannt sind, träumen wir\nmanchmal, dass wir wie gelähmt sind und uns nur langsam bewegen können.\nIn jeweils 90 Minuten haben wir alle drei Schlafphasen einmal durchlaufen und ein\nneuer 90-minütiger Ablauf beginnt. Weitere 90-Minuten-Abschnitte folgen, bis ein\nschlafender Mensch nach etwa sieben bis acht Stunden erwacht. Die einzelnen\nSchlafphasen dauern aber nicht immer gleich lang. Zu Beginn der Nacht sind die\nAnteile des Tiefschlafs gross und nehmen gegen Morgen ab. Die REM-Phasen\nnehmen jedoch gegen Morgen zu. Die verschiedenen Schlafphasen folgen also\neinem bestimmten Ablauf und treten wiederholt auf.\nIm Reich der Träume.\nAuch wenn sich einige Menschen nie an ihre Träume erinnern: Jeder Mensch\nträumt. In allen Schlafphasen, besonders jedoch während der REM-Phase, treten\nTräume auf. Manche Menschen können sich nach dem Aufwachen jedoch nicht\nmehr an sie erinnern. Solche Menschen beschäftigen sich sofort mit anderen Dingen\nund vergessen die Träume dabei. Wenn man das verhindern will, hilft es, ein Blatt\nPapier und einen Stift neben dem Bett bereitzuhalten und den Traum sofort nach\ndem Erwachen niederzuschreiben. Mit dieser Methode gelingt es auch Menschen,\ndie behaupten, nie zu träumen, sich an ihre Träume zu erinnern.\nTräume handeln oft von unmöglichen Dingen oder Ereignissen und sind oft mit\nintensiven Gefühlen verbunden. Manchmal finden Dinge Eingang in unsere Träume,\ndie uns kurz vor dem Zubettgehen beschäftigt haben. So kann es zum Beispiel sein,\ndass wir Albträume haben, wenn wir am Abend einen Horrorfilm gesehen haben.\nAuch äussere Reize, wie das Klingeln des Weckers, können unsere Träume\nbeeinflussen. Vielleicht träumen wir dann kurz vor dem Aufwachen von einem\nFeueralarm oder dergleichen. Träume setzten sich also aus Erinnerungen und aus\naktuellen Reizen aus der Umgebung zusammen.\nWarum Menschen und Tiere träumen, weiss man nicht. Es gibt die Auffassung, dass\nMenschen von Dingen träumen, die sie sich im realen Leben unbewusst wünschen.\nSicher ist, dass während des Schlafs und vielleicht besonders in unseren Träumen\nDinge in unserem Gehirn abgespeichert werden, die wir am Tag gelernt haben.\nTräume scheinen also ganz verschiedene Funktionen zu haben.\nKann es Menschen bewusst sein, dass sie gerade träumen? Meistens hält der\nSchlafende seinen Traum im Moment für die Wirklichkeit. So kann es vorkommen,\ndass man aus einem Albtraum erwacht und erleichtert ist, doch nur geträumt zu\nhaben. Es gibt aber Träume, in denen der Träumende genau weiss, dass er gerade\nträumt. Menschen mit solchen Träumen berichten, dass sie im Traum kleine\n„Experimente“ machen, um zu prüfen, ob sie wachen oder schlafen. Manchmal wird\nTrainingsstrecke Nr. 114: Essen als Problem: Essstörungen bei Jugendlichen\nsogar geträumt, dass man aufwacht, obwohl man in Wirklichkeit noch immer\nschläft. Es kommt also vor, dass Träumende wissen, dass sie gerade träumen.\nWenn die Nacht zum Tag wird.\nDie Schlafmuster schwanken zwischen verschiedenen Gegenden, die gesamte\nbenötigte Schlafdauer ist jedoch immer gleich. Die Menschen in Nordeuropa sind es\nmeistens gewohnt, in der Nacht zu schlafen und am Tag wach zu sein. Das ist\njedoch nicht überall so. In Südeuropa beispielsweise ist es üblich, eine sogenannte\n„Siesta“ zu machen, also ein Nachmittagsschläfchen. Dafür schlafen die Menschen\ndort in der Nacht kürzer. Auch in China und Japan teilt man die tägliche Schlafzeit\nauf, sodass die Menschen dort in der Nacht weniger schlafen. Die gesamte\nSchlafdauer pro 24 Stunden ist aber ähnlich lang wie bei uns.\nDie Schlafgewohnheiten der Menschen haben sich im Laufe der Geschichte\nverändert. Mit der Erfindung der Glühbirne Mitte des 19. Jahrhunderts wurde es\nmöglich, am Abend länger zu arbeiten oder andere Dinge zu tun und später zu Bett\nzu gehen. Dadurch schläft man am Morgen länger. Auch ein Grossteil der\nFreizeitaktivitäten findet heute in den Abend- und Nachtstunden statt: Man geht aus,\nbetreibt Sport, trifft sich mit Freunden, macht die Nacht zum Tag. Die Verbreitung\ndes künstlichen Lichts hat zu einer Verschiebung der Schlafzeiten geführt.\nWann genau Menschen innerhalb eines 24-Stunden-Tages zur Höchstform\nauflaufen, ist je nach Typ verschieden. Es gibt sogenannte Morgentypen und\nAbendtypen. Man spricht auch von Eulen und Lerchen. Der Morgentyp, also der\nTyp Lerche, springt frühmorgens aus den Federn und ist dann auch schon bereits\nleistungsfähig. Der Abendtyp erreicht sein Maximum an Aktivität am Nachmittag\nund bleibt dann bis spät in den Abend fit.\nOhne Schlaf geht’s nicht.\nWie lange ist es möglich, ganz ohne Schlaf auszukommen? 1965 verbrachte der\namerikanische Schüler Randy Gardner ganze elf Tage ohne Schlaf. Wissenschaftler\ngehen jedoch davon aus, dass sich Menschen nicht so lange wachhalten können.\nWahrscheinlich ist Randy Gardner immer wieder in Sekundenschlaf verfallen und\nnicht wirklich die ganze Zeit wach geblieben. Ob ein Mensch tatsächlich elf Tage\nohne Schlaf auskommen kann, ist also umstritten.\nIn einer Studie haben Forscher Versuchspersonen tagelang wachgehalten. Nach 24\nStunden wurden diese sehr leicht reizbar. Nach 65 Stunden bildete sich eine Frau\nein, sie habe auf Armen und Gesicht Spinnweben. Verzweifelt versuchte sie, diese\nSpinnweben wegzuwaschen. Eine andere Frau meinte, ihr Hut sei zu eng, obwohl\nsie keinen auf dem Kopf trug. Schon nach etwa zweieinhalb Tagen ohne Schlaf,\nbeginnen Menschen, Dinge wahrzunehmen, die nicht wirklich da sind.\nDass wir uns häufig müde fühlen, dafür tragen wir meistens selbst die Schuld. Oft\nhört man, wie sich Menschen über Müdigkeit beklagen, vor allem am Nachmittag.\nOft machen sie dann eine schwere Mahlzeit, ein zu warmes Büro oder langweilige\nArbeit dafür verantwortlich. Bei genügend Schlaf jedoch müsste eine gesunde\nPerson auch langweilige, ruhige Tätigkeiten ausüben können, ohne dabei schlapp zu\nwerden oder Konzentrationsschwierigkeiten zu haben. Schon eine Stunde zu wenig\nSchlaf kann zu nachlassender Leistungsfähigkeit führen.\nWie man sich bettet, so liegt man.\nWichtig für die Schlafqualität ist natürlich auch die Schlafunterlage. Auch diese ist\nje nach Gegend verschieden. Während man bei uns meist erhöht auf einer mehr oder\nweniger weichen Matratze schläft, bettet man sich anderswo anders. Dort legen sich\ndie Menschen direkt auf den Fussboden oder auf Tücher oder in Hängematten. Auch\nDecken sind nicht überall üblich. Wie sich die Menschen ihren Schlafplatz gestalten,\nist von Gegend zu Gegend verschieden.\nWas für uns auf den ersten Blick ungemütlich wirkt, hat aber wichtige Vorteile. Der\nVerzicht auf zu viele Schlafutensilien kann nämlich dafür sorgen, dass keine\nPlagegeister wie Flöhe oder Milben angelockt werden. Die fühlen sich unter unseren\nDecken echt wohl. Auch die Verwendung von Hängematten schafft hier Abhilfe: So\nhoch hinauf schaffen es Parasiten nämlich nicht so leicht. Auch unsere Betten stehen\naus diesem Grund auf vier Beinen.\nDie Gewohnheiten bei der Schlafbekleidung sind weltweit ganz schön verschieden.\nEinige Leute tragen Pyjamas, andere normale Unterwäsche. Frauen tragen\nmanchmal auch Nachthemden. Manche Leute behalten sogar die gleiche Kleidung\nwie am Tag an. Andere ziehen es vor, nackt zu schlafen. Letzteres war früher ganz\nnormal. Bis ins 16. Jahrhundert schliefen die Leute in der westlichen Welt alle\nnackt.\nWenn Menschen schlafen, schützen sie sich auf verschiedenste Weise vor Gefahren.\nOftmals verlegen sie ihren Schlafplatz in ein Haus oder Zelt. Das schützt vor\ngrossen Raubtieren und vor Wind, Regen, Kälte und Licht. Um Raubtiere und\nandere Feinde auf Distanz zu halten, werden auch Wachhunde eingesetzt.\nÜbernachten die Menschen draussen, legen sie sich neben ein Feuer, was auch\nRaubtiere fernhält. Der Rauch schützt zusätzlich vor Insekten. Allerdings wirkt da\ndas Licht störend und die Gefahr von Verbrennungen besteht. Ein zusätzlicher\nSchutz kann auch das Schlafen in sozialen Gruppen, im Kreise der Familie oder\nFreunde, bedeuten.\n",
+			"<article",
+			"article",
+			"#8B8B8B",
+			"8B8B8B",
+			"</li>",
+			"<li>",
+			"newArticle",
+			"externalVector",
+			"e",
+			"\n",
+			"agnDYN",
+			"[/",
+			"][",
+			"\n",
+			"-----------------------------------------",
+			"\n",
+			"agnDYN",
+			"****\"]\n[",
+			"\n",
+			"align=\"center\"><",
+			"align=\"center\"",
+			"<div style=\"padding-top: 30px; border-bottom: 1px solid #3c3f8a;\">",
+			"<div style=\"padding-top: 30px;\">",
+			"<div style=\"padding-top: 40px;\">",
+			"bfa-bas",
+			"bfa-side",
+			"<div style=\"padding: 20px 0 5px 0;",
+			"<div style=\"padding: 20px",
+			"<h3 style=\"margin: 0px;",
+			"<h3 style=\" margin: 0px;",
+			"<h3 style=\"",
+			"#E6E6E6",
+			" #",
+			"#F5F5F5",
+			"#2D2D2E",
+			"<p",
+			"webfonts",
+			"jun",
+			"leagu",
+			"</a>",
+			"<p class=\"yearInfo\"",
+			"=\"gray\">",
+			"</span>",
+			"href=\"#\" class=\"clearfix\"",
+			"<span class=\"yearButton gray\">&darr;</span>",
+			"<span class=\"yearButton gray\">",
+			"<a href=\"#\"",
+			"<li class=\"",
+			"<span class=\"yearButton gray\">",
+			"<li class=\"clearfix\">",
+			"<li>",
+			"class=\"t",
+			"r;</span>",
+			"<span class=\"title gray\">",
+			"<span cla",
+			"class\"",
+			"class=\"yearButton\"",
+			"<li class=\"gray\">",
+			"<li>",
+			"&darr;",
+			"<p class=\"yearInfo\"",
+			"strong",
+			"auto_complete",
+			"document",
+			"stroke=\"#1D1D1B\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "template/index.html",
+					"settings":
+					{
+						"buffer_size": 1760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								944,
+								944
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template/css/main.scss",
+					"settings":
+					{
+						"buffer_size": 6241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2086,
+								2086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1512.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 37.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"css/main.less"
+			],
+			[
+				"st",
+				"webfonts/stylesheet.css"
+			],
+			[
+				"ma",
+				"css/main.less"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"sty",
+				"webfonts/stylesheet.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true
+}

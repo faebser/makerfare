@@ -93,8 +93,37 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/*--colors */
+$gruen: #2eab7b;
+$gelb: #f5ad00;
+$grau: #d4d3c8;
+$weiss: #fff;
+$schwarz: #000;
 
+body {
+    #main {
+        margin: 2em auto 0 auto;
+        width: 80%;
+        max-width: 900px;
+        border: 1px solid $grau;
+        box-shadow: 0px 0px 25px -10px $grau;
+        header {
+            width: 100%;
+            ul {
+                list-style-type: none;
+                li {
+                    display: inline-block;
+                }
+            }
+        }
+        #content {
 
+        }
+        footer {
+            width: 100%;
+        }
+    }
+}
 
 
 
