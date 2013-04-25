@@ -94,29 +94,96 @@ textarea {
    ========================================================================== */
 
 /*--colors */
-$gruen: #2eab7b;
+$gruen: #0d8991;
 $gelb: #f5ad00;
 $grau: #d4d3c8;
 $weiss: #fff;
 $schwarz: #000;
 
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
 body {
     #main {
+        color: #424242;
         margin: 2em auto 0 auto;
         width: 80%;
         max-width: 900px;
-        border: 1px solid $grau;
-        box-shadow: 0px 0px 25px -10px $grau;
         header {
             width: 100%;
+            img {
+                position: relative;
+                right: 57px;
+            }
             ul {
                 list-style-type: none;
+                margin: 0;
+                padding: 0;
+                width: 100%;
                 li {
+                    width: 25%;
+                    text-align: center;
+                    display: inline;
+                    zoom: 1;
                     display: inline-block;
+                    background: $grau;
+                    border-left: 1px solid $weiss;
+                    &:first-child {
+                        border-left: none;
+                    }
+                    &:hover {
+                        background-color: $gruen;
+                    }
+                    a {
+                        font-size: 1.1em;
+                        font-weight: bold;
+                        color: $weiss;
+                        text-decoration: none;
+                        padding: 0.6em 0;
+                        display: block;
+                        &:hover {
+                            color: $gelb;
+                        }
+                    }
                 }
+                
             }
         }
         #content {
+            article {
+                margin: 5px auto;
+                h1 {
+                    color: $gelb;
+                    position: relative;
+                    right: 30px;
+                    font-size: 3em;
+                    margin: 0.67em 0 0.2em 0;
+                    & + p {
+                        border-top: 1px solid $grau;
+                        padding-top: 1.2em;
+                        margin-top: 0;
+                    }
+                }
+                p {
+                    size: 0.9em;
+                }
+                img {
+                    margin: 0.5em;
+                    &.left {
+                        float: left;
+                        margin-left: 0px;
+                    }
+                    &.right {
+                        float: right;
+                        margin-right: 0px;
+                    }
+                }
+                .block {
+                    width: 50%;
+                    display: inline;
+                    zoom: 1;
+                    display: inline-block;
+                }
+            }
 
         }
         footer {
