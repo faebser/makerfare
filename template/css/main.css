@@ -32,18 +32,20 @@ body #main { color: #424242; margin: 2em auto 0 auto; width: 80%; max-width: 900
 body #main header { width: 100%; }
 body #main header img { position: relative; right: 57px; }
 body #main header ul { list-style-type: none; margin: 0; padding: 0; width: 100%; }
-body #main header ul li { width: 25%; text-align: center; display: inline; zoom: 1; display: inline-block; background: #d4d3c8; border-left: 1px solid white; }
+body #main header ul li { width: 25%; text-align: center; display: inline; zoom: 1; display: inline-block; background: #d4d3c8; border-left: 1px solid white; line-height: 1.7; font-size: 1.3em; }
 body #main header ul li:first-child { border-left: none; }
 body #main header ul li:hover { background-color: #0d8991; }
-body #main header ul li a { font-size: 1.1em; font-weight: bold; color: white; text-decoration: none; padding: 0.6em 0; display: block; }
+body #main header ul li a { font-weight: bold; color: white; text-decoration: none; padding: 0.6em 0; display: block; }
 body #main header ul li a:hover { color: #f5ad00; }
 body #main #content article { margin: 5px auto; }
-body #main #content article h1 { color: #f5ad00; position: relative; right: 30px; font-size: 3em; margin: 0.67em 0 0.2em 0; }
+body #main #content article h1 { color: #f5ad00; font-size: 3.4em; margin: 0.67em 0 0.2em 0; }
 body #main #content article h1 + p { border-top: 1px solid #d4d3c8; padding-top: 1.2em; margin-top: 0; }
-body #main #content article p { size: 0.9em; }
+body #main #content article h2 { font-size: 1.38em; }
+body #main #content article p { font-size: 0.91em; }
 body #main #content article img { margin: 0.5em; }
-body #main #content article img.left { float: left; margin-left: 0px; }
-body #main #content article img.right { float: right; margin-right: 0px; }
+body #main #content article img.left { float: left; margin-left: 0; }
+body #main #content article img.right { float: right; margin-right: 0; }
+body #main #content article img.full { margin: 0.5em 0; }
 body #main #content article .block { width: 50%; display: inline; zoom: 1; display: inline-block; }
 body #main footer { width: 100%; }
 

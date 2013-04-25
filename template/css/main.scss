@@ -100,6 +100,11 @@ $grau: #d4d3c8;
 $weiss: #fff;
 $schwarz: #000;
 
+@mixin background-opacity($color, $opacity: 0.3) {
+    background: $color; /* The Fallback */
+    background: rgba($color, $opacity);
+}
+
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body {
@@ -127,6 +132,8 @@ body {
                     display: inline-block;
                     background: $grau;
                     border-left: 1px solid $weiss;
+                    line-height: 1.7;
+                    font-size: 1.3em;
                     &:first-child {
                         border-left: none;
                     }
@@ -134,7 +141,6 @@ body {
                         background-color: $gruen;
                     }
                     a {
-                        font-size: 1.1em;
                         font-weight: bold;
                         color: $weiss;
                         text-decoration: none;
@@ -153,9 +159,7 @@ body {
                 margin: 5px auto;
                 h1 {
                     color: $gelb;
-                    position: relative;
-                    right: 30px;
-                    font-size: 3em;
+                    font-size: 3.4em;
                     margin: 0.67em 0 0.2em 0;
                     & + p {
                         border-top: 1px solid $grau;
@@ -163,18 +167,24 @@ body {
                         margin-top: 0;
                     }
                 }
+                h2 {
+                    font-size: 1.38em;
+                }
                 p {
-                    size: 0.9em;
+                    font-size: 0.91em;
                 }
                 img {
                     margin: 0.5em;
                     &.left {
                         float: left;
-                        margin-left: 0px;
+                        margin-left: 0;
                     }
                     &.right {
                         float: right;
-                        margin-right: 0px;
+                        margin-right: 0;
+                    }
+                    &.full {
+                        margin: 0.5em 0;
                     }
                 }
                 .block {
