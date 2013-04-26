@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"gr",
+				"gruen"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
 				"list",
 				"list-style-type"
 			],
@@ -124,20 +168,8 @@
 				"relative"
 			],
 			[
-				"margin",
-				"margin"
-			],
-			[
 				"css",
 				"css( name, value )	jquery.js"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"padding",
-				"padding-bottom"
 			],
 			[
 				"text-",
@@ -482,38 +514,6 @@
 			[
 				"wrong",
 				"wrongArticles"
-			],
-			[
-				"a",
-				"a	<a>"
-			],
-			[
-				"articleH",
-				"articleHoverZindexIn"
-			],
-			[
-				"last",
-				"lastMousePos"
-			],
-			[
-				"onM",
-				"onMouseUp(event)	main.js"
-			],
-			[
-				"on",
-				"onMouseDown(event)	main.js"
-			],
-			[
-				"ab",
-				"absolute"
-			],
-			[
-				"menu",
-				"menuContainerHeight"
-			],
-			[
-				"out",
-				"outerWidth"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 1760,
+				"buffer_size": 6321,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "template/css/main.scss",
 			"settings":
 			{
-				"buffer_size": 6241,
+				"buffer_size": 8657,
 				"line_ending": "Unix"
 			}
 		}
@@ -793,6 +793,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"text",
 			"console.log",
 			"console.log(video.attr(\"autoplay\"));",
 			"prop",
@@ -911,15 +912,15 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 1760,
+						"buffer_size": 6321,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								944,
-								944
+								4973,
+								4973
 							]
 						],
 						"settings":
@@ -929,7 +930,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 810.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -939,15 +940,15 @@
 					"file": "template/css/main.scss",
 					"settings":
 					{
-						"buffer_size": 6241,
+						"buffer_size": 8657,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2086,
-								2086
+								3604,
+								3604
 							]
 						],
 						"settings":
@@ -957,7 +958,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1512.0,
+						"translation.y": 2569.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
