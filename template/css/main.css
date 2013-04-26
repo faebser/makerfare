@@ -45,7 +45,10 @@ body #main #content article img { margin: 0.5em; }
 body #main #content article img.left { float: left; margin-left: 0; }
 body #main #content article img.right { float: right; margin-right: 0; }
 body #main #content article img.full { margin: 0.5em 0; }
-body #main #content article .block { width: 50%; display: inline; zoom: 1; display: inline-block; }
+body #main #content article .block { width: 48.5%; margin-right: 3%; display: inline; zoom: 1; display: inline-block; border: 1px solid #d4d3c8; background-color: #d4d3c8; }
+body #main #content article .block:nth-child(2n) { margin-right: 0; }
+body #main #content article .block h2 { text-align: center; border-bottom: 1px solid #0d8991; padding: 0.75em 0; margin: 0; }
+body #main #content article .block ul { list-style-type: none; margin: 0; padding: 0; }
 body #main footer { width: 100%; }
 
 /* ========================================================================== Helper classes ========================================================================== */
