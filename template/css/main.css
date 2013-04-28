@@ -1,98 +1,440 @@
-/* HTML5 Boilerplate  What follows is the result of much research on cross-browser styling. Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal, Kroc Camen, and the H5BP dev community and team. */
-/* ========================================================================== Base styles: opinionated defaults ========================================================================== */
-html, button, input, select, textarea { color: #222; }
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000317}}
+html,
+button,
+input,
+select,
+textarea {
+  color: #222; }
 
-body { font-size: 1em; line-height: 1.4; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000321}}
+body {
+  font-size: 1em;
+  line-height: 1.4; }
 
-/* Remove text-shadow in selection highlight: h5bp.com/i These selection rule sets have to be separate. Customize the background color to match your design. */
-::-moz-selection { background: #b3d4fc; text-shadow: none; }
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000332}}
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none; }
 
-::selection { background: #b3d4fc; text-shadow: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000337}}
+::selection {
+  background: #b3d4fc;
+  text-shadow: none; }
 
-/* A better looking default horizontal rule */
-hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+/*
+ * A better looking default horizontal rule
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000346}}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
 
-/* Remove the gap between images and the bottom of their containers: h5bp.com/i/440 */
-img { vertical-align: middle; }
+/*
+ * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000359}}
+img {
+  vertical-align: middle; }
 
-/* Remove default fieldset styles. */
-fieldset { border: 0; margin: 0; padding: 0; }
+/*
+ * Remove default fieldset styles.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000367}}
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0; }
 
-/* Allow only vertical resizing of textareas. */
-textarea { resize: vertical; }
+/*
+ * Allow only vertical resizing of textareas.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000377}}
+textarea {
+  resize: vertical; }
 
-/* ========================================================================== Chrome Frame prompt ========================================================================== */
-.chromeframe { margin: 0.2em 0; background: #ccc; color: #000; padding: 0.2em 0; }
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\0000385}}
+.chromeframe {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0; }
 
-/* ========================================================================== Author's custom styles ========================================================================== */
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
 /*--colors */
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003110}}
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
 
-body #main { color: #424242; margin: 2em auto 0 auto; width: 80%; max-width: 900px; }
-body #main header { width: 100%; }
-body #main header img { position: relative; right: 57px; }
-body #main header ul { list-style-type: none; margin: 0; padding: 0; width: 100%; }
-body #main header ul li { width: 25%; text-align: center; display: inline; zoom: 1; display: inline-block; background: #d4d3c8; border-left: 1px solid white; line-height: 1.7; font-size: 1.3em; }
-body #main header ul li:first-child { border-left: none; }
-body #main header ul li:hover { background-color: #0d8991; }
-body #main header ul li a { font-weight: bold; color: white; text-decoration: none; padding: 0.6em 0; display: block; }
-body #main header ul li a:hover { color: #f5ad00; }
-body #main #content article { margin: 5px auto; border-bottom: 1px solid #d4d3c8; }
-body #main #content article h1 { color: #f5ad00; font-size: 3.4em; padding-left: 0.55em; margin: 0.67em 0 0.2em 0; }
-body #main #content article h2 { font-size: 1.38em; padding-left: 0.275em; }
-body #main #content article p { font-size: 0.91em; font-family: Georgia, serif; }
-body #main #content article img { margin: 0.5em; }
-body #main #content article img.left { float: left; margin-left: 0; }
-body #main #content article img.right { float: right; margin-right: 0; }
-body #main #content article img.full { margin: 0.5em 0; }
-body #main #content article .block { width: 48.5%; margin-right: 3%; display: inline; zoom: 1; display: inline-block; }
-body #main #content article .block:nth-child(2n) { margin-right: 0; }
-body #main #content article .block h2 { color: #f5ad00; text-align: center; padding: 0.5em 0; font-size: 1.2em; background-color: #0d8991; }
-body #main #content article .block ul { list-style-type: none; margin: 0; padding: 0; }
-body #main #content article .block ul li { font-family: Georgia, serif; }
-body #main #content article .block ul li span { font-weight: bold; margin-left: 1em; padding: 0.5em; }
-body #main footer { width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003112}}
+body {
+  margin-bottom: 5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003114}}
+  body #main {
+    color: #424242;
+    margin: 2em auto 0 auto;
+    width: 80%;
+    max-width: 900px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003119}}
+    body #main header {
+      width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003121}}
+      body #main header img {
+        position: relative;
+        right: 57px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003125}}
+      body #main header ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003130}}
+        body #main header ul li {
+          width: 25%;
+          text-align: center;
+          display: inline;
+          zoom: 1;
+          display: inline-block;
+          background: #d4d3c8;
+          border-left: 1px solid white;
+          line-height: 1.7;
+          font-size: 1.3em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003140}}
+          body #main header ul li:first-child {
+            border-left: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003143}}
+          body #main header ul li:hover {
+            background-color: #0d8991; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003146}}
+          body #main header ul li a {
+            font-weight: bold;
+            color: white;
+            text-decoration: none;
+            padding: 0.6em 0;
+            display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003152}}
+            body #main header ul li a:hover {
+              color: #f5ad00; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003157}}
+        body #main header ul.fixed {
+          position: fixed;
+          max-width: 900px;
+          top: 0.2em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003161}}
+          body #main header ul.fixed + a {
+            display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003165}}
+        body #main header ul + a {
+          display: none;
+          width: 100%;
+          text-align: center;
+          background: #d4d3c8;
+          margin: 2px 0 0 0;
+          color: white;
+          font-weight: bold;
+          text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003174}}
+          body #main header ul + a:hover {
+            color: #f5ad00;
+            background-color: #0d8991; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003183}}
+    body #main #content article {
+      margin: 5px auto;
+      border-bottom: 1px solid #d4d3c8; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003186}}
+      body #main #content article h1 {
+        color: #f5ad00;
+        font-size: 3.4em;
+        padding-left: 0.55em;
+        margin: 0.67em 0 0.2em 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003192}}
+      body #main #content article h2 {
+        font-size: 1.38em;
+        padding-left: 0.275em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003196}}
+      body #main #content article p {
+        font-size: 0.91em;
+        font-family: Georgia, serif;
+        margin-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003201}}
+      body #main #content article img {
+        margin: 0.3em 0.5em 0.5em 0.5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003203}}
+        body #main #content article img.left {
+          float: left;
+          margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003207}}
+        body #main #content article img.right {
+          float: right;
+          margin-right: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003211}}
+        body #main #content article img.full {
+          max-width: 100%;
+          margin: 0.5em 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003216}}
+      body #main #content article .block {
+        width: 48.5%;
+        margin-right: 3%;
+        display: inline;
+        zoom: 1;
+        display: inline-block;
+        vertical-align: top; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003223}}
+        body #main #content article .block:nth-child(2n) {
+          margin-right: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003226}}
+        body #main #content article .block h2 {
+          color: #f5ad00;
+          text-align: center;
+          padding: 0.5em 0;
+          font-size: 1.2em;
+          background-color: #0d8991; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003234}}
+        body #main #content article .block ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003238}}
+          body #main #content article .block ul li {
+            font-family: Georgia, serif; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003240}}
+            body #main #content article .block ul li span {
+              font-weight: bold;
+              margin-left: 1em;
+              padding: 0.5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003247}}
+        body #main #content article .block .smallInfoBox {
+          float: right;
+          background-color: #d4d3c8;
+          padding: 1em;
+          margin: 0 0 1em 1em;
+          line-height: 1;
+          font-style: italic; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003254}}
+          body #main #content article .block .smallInfoBox p {
+            margin: 0.1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003258}}
+        body #main #content article .block .course {
+          display: block;
+          background: #d4d3c8;
+          width: 40%;
+          margin: 1em auto;
+          padding: 0.2em;
+          color: white;
+          text-decoration: none;
+          text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003267}}
+          body #main #content article .block .course:hover {
+            background-color: #0d8991;
+            color: #f5ad00; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003274}}
+      body #main #content article#workshops .intro > p {
+        margin-top: 0;
+        font-weight: bold; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003279}}
+      body #main #content article .responsiveMap {
+        width: 100%;
+        height: 20em;
+        margin: 0 0 1em 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003287}}
+    body #main footer {
+      width: 100%; }
 
-/* ========================================================================== Helper classes ========================================================================== */
-/* Image replacement */
-.ir { background-color: transparent; border: 0; overflow: hidden; /* IE 6/7 fallback */ *text-indent: -9999px; }
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+/*
+ * Image replacement
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003314}}
+.ir {
+  background-color: transparent;
+  border: 0;
+  overflow: hidden;
+  /* IE 6/7 fallback */
+  *text-indent: -9999px; }
 
-.ir:before { content: ""; display: block; width: 0; height: 150%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003322}}
+.ir:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 150%; }
 
-/* Hide from both screenreaders and browsers: h5bp.com/u */
-.hidden { display: none !important; visibility: hidden; }
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003333}}
+.hidden {
+  display: none !important;
+  visibility: hidden; }
 
-/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
-.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003342}}
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
 
-/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: h5bp.com/p */
-.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003359}}
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; }
 
-/* Hide visually and from screenreaders, but maintain layout */
-.invisible { visibility: hidden; }
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003372}}
+.invisible {
+  visibility: hidden; }
 
-/* Clearfix: contain floats  For modern browsers 1. The space content is one way to avoid an Opera bug when the `contenteditable` attribute is included anywhere else in the document. Otherwise it causes space to appear at the top and bottom of elements that receive the `clearfix` class. 2. The use of `table` rather than `block` is only necessary if using `:before` to contain the top-margins of child elements. */
-.clearfix:before, .clearfix:after { content: " "; /* 1 */ display: table; /* 2 */ }
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003389}}
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
 
-.clearfix:after { clear: both; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003394}}
+.clearfix:after {
+  clear: both; }
 
-/* For IE 6/7 only Include this rule to trigger hasLayout and contain floats. */
-.clearfix { *zoom: 1; }
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003403}}
+.clearfix {
+  *zoom: 1; }
 
-/* ========================================================================== EXAMPLE Media Queries for Responsive Design. These examples override the primary ('mobile first') styles. Modify as content requires. ========================================================================== */
-@media only screen and (min-width: 35em) { /* Style adjustments for viewports that meet the condition */ }
-@media print, (-o-min-device-pixel-ratio: 5 / 4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) { /* Style adjustments for high resolution devices */ }
-/* ========================================================================== Print styles. Inlined to avoid required HTTP connection: h5bp.com/r ========================================================================== */
-@media print { * { background: transparent !important; color: #000 !important; /* Black prints faster: h5bp.com/s */ box-shadow: none !important; text-shadow: none !important; }
-  a, a:visited { text-decoration: underline; }
-  a[href]:after { content: " (" attr(href) ")"; }
-  abbr[title]:after { content: " (" attr(title) ")"; }
-  /* Don't show links for images, or javascript/internal links */
-  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
-  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
-  thead { display: table-header-group; /* h5bp.com/t */ }
-  tr, img { page-break-inside: avoid; }
-  img { max-width: 100% !important; }
-  @page { margin: 0.5cm; }
-  p, h2, h3 { orphans: 3; widows: 3; }
-  h2, h3 { page-break-after: avoid; } }
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+@media only screen and (min-width: 35em) {
+  /* Style adjustments for viewports that meet the condition */ }
+@media print, (-o-min-device-pixel-ratio: 5 / 4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+  /* Style adjustments for high resolution devices */ }
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+@media print {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003430}}
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003438}}
+  a,
+  a:visited {
+    text-decoration: underline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003442}}
+  a[href]:after {
+    content: " (" attr(href) ")"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003446}}
+  abbr[title]:after {
+    content: " (" attr(title) ")"; }
+
+  /*
+   * Don't show links for images, or javascript/internal links
+   */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003456}}
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: ""; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003461}}
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003466}}
+  thead {
+    display: table-header-group;
+    /* h5bp.com/t */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003471}}
+  tr,
+  img {
+    page-break-inside: avoid; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003475}}
+  img {
+    max-width: 100% !important; }
+
+  @page {
+    margin: 0.5cm; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003485}}
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/faebser\/workspace\/makerfare\/template\/css\/main\.scss}line{font-family:\00003491}}
+  h2,
+  h3 {
+    page-break-after: avoid; } }
