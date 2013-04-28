@@ -99,6 +99,8 @@ $gelb: #f5ad00;
 $grau: #d4d3c8;
 $weiss: #fff;
 $schwarz: #000;
+$font-serif: Georgia, serif;
+$font-sans: "";
 
 @mixin background-opacity($color, $opacity: 0.3) {
     background: $color; /* The Fallback */
@@ -157,12 +159,12 @@ body {
         #content {
             article {
                 margin: 5px auto;
+                border-bottom: 1px solid $grau;
                 h1 {
                     color: $gelb;
                     font-size: 3.4em;
                     padding-left: 0.55em;
                     margin: 0.67em 0 0.2em 0;
-                    border-bottom: 1px solid $grau;
                 }
                 h2 {
                     font-size: 1.38em;
@@ -170,7 +172,7 @@ body {
                 }
                 p {
                     font-size: 0.91em;
-                    font-family: Georgia, serif;
+                    font-family: $font-serif;
                 }
                 img {
                     margin: 0.5em;
@@ -192,23 +194,28 @@ body {
                     display: inline;
                     zoom: 1;
                     display: inline-block;
-                    border: 1px solid $grau;
-                    background-color: $grau;
                     &:nth-child(2n) {
                         margin-right: 0;
                     }
                     h2 {
+                        
+                        color: $gelb;
                         text-align: center;
-                        border-bottom: 1px solid $gruen;
-                        padding: 0.75em 0;
-                        margin: 0;
+                        padding: 0.5em 0;
+                        font-size: 1.2em;
+                        background-color: $gruen;
                     }
                     ul {
                         list-style-type: none;
                         margin: 0;
                         padding: 0;
                         li {
-
+                            font-family: $font-serif;
+                            span {
+                                font-weight: bold;
+                                margin-left: 1em;
+                                padding: 0.5em;
+                            }
                         }
                     }
                 }

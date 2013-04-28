@@ -4,8 +4,28 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align"
+			],
+			[
 				"font",
-				"font-size"
+				"font-serif"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"g",
+				"grau"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font-",
+				"font-family"
 			],
 			[
 				"line",
@@ -14,10 +34,6 @@
 			[
 				"marg",
 				"margin-right"
-			],
-			[
-				"margin",
-				"margin-left"
 			],
 			[
 				"margin-",
@@ -468,10 +484,6 @@
 				"width"
 			],
 			[
-				"text",
-				"text-decoration"
-			],
-			[
 				"background",
 				"background-color"
 			],
@@ -502,18 +514,6 @@
 			[
 				"lukeV",
 				"lukeVector(inputX, inputY)	main.js"
-			],
-			[
-				"me",
-				"menuContainer"
-			],
-			[
-				"rig",
-				"rightArticlesOrder(articles)	main.js"
-			],
-			[
-				"wrong",
-				"wrongArticles"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 6321,
+				"buffer_size": 6785,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,15 @@
 			"file": "template/css/main.scss",
 			"settings":
 			{
-				"buffer_size": 8657,
+				"buffer_size": 9612,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 199,
 				"line_ending": "Unix"
 			}
 		}
@@ -904,7 +912,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -912,15 +920,15 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 6321,
+						"buffer_size": 6785,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4973,
-								4973
+								5485,
+								5485
 							]
 						],
 						"settings":
@@ -930,7 +938,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 810.0,
+						"translation.y": 882.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -940,15 +948,15 @@
 					"file": "template/css/main.scss",
 					"settings":
 					{
-						"buffer_size": 8657,
+						"buffer_size": 9612,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3604,
-								3604
+								5267,
+								5267
 							]
 						],
 						"settings":
@@ -958,7 +966,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2569.0,
+						"translation.y": 3555.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
