@@ -1,3 +1,47 @@
+@font-face {
+    font-family: 'TitilliumText25L800wt';
+    src: url('font/TitilliumText25L001-webfont.eot');
+    src: url('font/TitilliumText25L001-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/TitilliumText25L001-webfont.woff') format('woff'),
+         url('font/TitilliumText25L001-webfont.ttf') format('truetype'),
+         url('font/TitilliumText25L001-webfont.svg#TitilliumText25L800wt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TitilliumText25L400wt';
+    src: url('font/TitilliumText25L003-webfont.eot');
+    src: url('font/TitilliumText25L003-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/TitilliumText25L003-webfont.woff') format('woff'),
+         url('font/TitilliumText25L003-webfont.ttf') format('truetype'),
+         url('font/TitilliumText25L003-webfont.svg#TitilliumText25L400wt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'TitilliumText25L250wt';
+    src: url('font/TitilliumText25L004-webfont.eot');
+    src: url('font/TitilliumText25L004-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/TitilliumText25L004-webfont.woff') format('woff'),
+         url('font/TitilliumText25L004-webfont.ttf') format('truetype'),
+         url('font/TitilliumText25L004-webfont.svg#TitilliumText25L250wt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TitilliumText25L1wt';
+    src: url('font/TitilliumText25L005-webfont.eot');
+    src: url('font/TitilliumText25L005-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/TitilliumText25L005-webfont.woff') format('woff'),
+         url('font/TitilliumText25L005-webfont.ttf') format('truetype'),
+         url('font/TitilliumText25L005-webfont.svg#TitilliumText25L1wt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 /*
  * HTML5 Boilerplate
  *
@@ -99,8 +143,10 @@ $gelb: #f5ad00;
 $grau: #d4d3c8;
 $weiss: #fff;
 $schwarz: #000;
-$font-serif: Georgia, serif;
-$font-sans: "";
+$font-header: 'TitilliumText25L800wt', sans-serif;
+$font-bold: 'TitilliumText25L400wt', sans-serif;
+$font-serif: 'TitilliumText25L250wt', Georgia, serif;
+$font-light: 'TitilliumText25L1wt';
 
 @mixin background-opacity($color, $opacity: 0.3) {
     background: $color; /* The Fallback */
@@ -116,11 +162,17 @@ body {
         margin: 2em auto 0 auto;
         width: 80%;
         max-width: 900px;
+        h1,
+        h2,
+        h3,
+        h4, {
+            font-family: $font-header;
+            font-weight: normal;
+        }
         header {
             width: 100%;
             img {
                 position: relative;
-                right: 57px;
             }
             ul {
                 list-style-type: none;
@@ -144,7 +196,7 @@ body {
                         background-color: $gruen;
                     }
                     a {
-                        font-weight: bold;
+                        font-family: $font-header;
                         color: $weiss;
                         text-decoration: none;
                         padding: 0.6em 0;
@@ -160,6 +212,7 @@ body {
                     top: 0.2em;
                     & + a {
                         display: block;
+                        position: fixed;
                     }
                 }
                 & + a {
@@ -223,8 +276,22 @@ body {
                     &:nth-child(2n) {
                         margin-right: 0;
                     }
+                    &.inactive {
+                        overflow: hidden;
+                        height: 4em;
+                        h2 {
+                            background-color: $grau;
+                            color: $weiss;
+                            &:hover {
+                                color: $gelb;
+                                background-color: $gruen;
+                            }
+                        }
+                    }
+                    &.clickable {
+                        cursor: pointer;
+                    }
                     h2 {
-                        
                         color: $gelb;
                         text-align: center;
                         padding: 0.5em 0;
@@ -250,7 +317,7 @@ body {
                         padding: 1em;
                         margin: 0 0 1em 1em;
                         line-height: 1;
-                        font-style: italic;
+                        font-family: $font-light;
                         p {
                             margin: 0.1em;
                         }
@@ -264,6 +331,7 @@ body {
                         color: $weiss;
                         text-decoration: none;
                         text-align: center;
+                        font-family: $font-header;
                         &:hover {
                             background-color: $gruen;
                             color: $gelb;
@@ -273,35 +341,33 @@ body {
                 &#workshops {
                     .intro > p {
                         margin-top: 0;
-                        font-weight: bold;
+                        font-family: $font-bold;
+                        font-size: 1em;
                     }
                 }
-                 .responsiveMap {
-                    width: 100%;
-                    height: 20em;
-                    margin: 0 0 1em 0;
+                &#kontakt {
+                    ul {
+                        margin: 0 0 2em 1em;
+                        li {
+                            font-family: $font-header;
+                        }
+                        h3 {
+                            margin-top: 0px;
+                        }
+                    }
+                    .responsiveMap {
+                        width: 100%;
+                        height: 20em;
+                        margin: 0 0 1em 0;
+                    }
                 }
             }
-
         }
         footer {
             width: 100%;
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ==========================================================================
    Helper classes

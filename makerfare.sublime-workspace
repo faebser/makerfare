@@ -4,36 +4,48 @@
 		"selected_items":
 		[
 			[
+				"san",
+				"font-sans"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
 				"text",
 				"text-align"
 			],
 			[
+				"bord",
+				"border"
+			],
+			[
 				"font",
-				"font-serif"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"g",
-				"grau"
-			],
-			[
-				"margin",
-				"margin-right"
-			],
-			[
-				"font-",
-				"font-family"
+				"font-size"
 			],
 			[
 				"line",
 				"line-height"
 			],
 			[
-				"marg",
-				"margin-right"
+				"margin",
+				"margin-left"
 			],
 			[
 				"margin-",
@@ -344,10 +356,6 @@
 				"scroller"
 			],
 			[
-				"back",
-				"backgroundColor"
-			],
-			[
 				"luve",
 				"lukeVector(inputX, inputY)	main.js"
 			],
@@ -506,14 +514,6 @@
 			[
 				"up",
 				"updateMap()	main.js"
-			],
-			[
-				"luke",
-				"lukeVector"
-			],
-			[
-				"lukeV",
-				"lukeVector(inputX, inputY)	main.js"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 6785,
+				"buffer_size": 11118,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,15 +531,15 @@
 			"file": "template/css/main.scss",
 			"settings":
 			{
-				"buffer_size": 9612,
+				"buffer_size": 12145,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+			"file": "template/css/main.css",
 			"settings":
 			{
-				"buffer_size": 199,
+				"buffer_size": 9977,
 				"line_ending": "Unix"
 			}
 		}
@@ -547,9 +547,33 @@
 	"build_system": "Packages/LESS-build/LESS.sublime-build",
 	"command_palette":
 	{
-		"height": 102.0,
+		"height": 332.0,
 		"selected_items":
 		[
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"set sy sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set sy htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
 			[
 				"instal ",
 				"Package Control: Install Package"
@@ -559,15 +583,7 @@
 				"Web Inspector"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"en",
-				"HTML: Encode Special Characters"
-			],
-			[
-				"html",
 				"HTML: Encode Special Characters"
 			],
 			[
@@ -585,10 +601,6 @@
 			[
 				"set s htm",
 				"Set Syntax: HTML5"
-			],
-			[
-				"install ",
-				"Package Control: Install Package"
 			],
 			[
 				"set sy py",
@@ -699,7 +711,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 453.0
+		"width": 561.0
 	},
 	"console":
 	{
@@ -716,8 +728,9 @@
 	},
 	"file_history":
 	[
-		"/home/faebser/workspace/makerfare/template/css/main.css",
+		"/home/faebser/workspace/makerfare/template/index.html",
 		"/home/faebser/workspace/makerfare/template/css/main.scss",
+		"/home/faebser/workspace/makerfare/template/css/main.css",
 		"/home/faebser/workspace/makerfare/index.html",
 		"/home/faebser/OIworkspace/unserstadtbild.ch/trunk/docroot/stadtbild/js/content.js",
 		"/home/faebser/OIworkspace/theamberroom/images/fromtheamberrom.gif",
@@ -912,7 +925,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -920,25 +933,25 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 6785,
+						"buffer_size": 11118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5485,
-								5485
+								9600,
+								9600
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 882.0,
+						"translation.y": 2193.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -948,15 +961,15 @@
 					"file": "template/css/main.scss",
 					"settings":
 					{
-						"buffer_size": 9612,
+						"buffer_size": 12145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5267,
-								5267
+								7970,
+								7970
 							]
 						],
 						"settings":
@@ -966,33 +979,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3555.0,
+						"translation.y": 4426.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"file": "template/css/main.css",
 					"settings":
 					{
-						"buffer_size": 199,
+						"buffer_size": 9977,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								199,
-								199
+								887,
+								887
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
