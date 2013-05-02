@@ -26,7 +26,7 @@ var ms = (function ($) {
 	sliderNext = function () {
 		var currentMargin = parseInt(slider.css("margin-left")),
 		newMargin = null;
-		if(currentMargin == sliderElementsMaxMargin) {
+		if(currentMargin == sliderElementsMaxMargin || currentMargin >= sliderElementsMaxMargin) {
 			newMargin = 0;
 		}
 		else {
