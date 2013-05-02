@@ -519,38 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "template/index.html",
-			"settings":
-			{
-				"buffer_size": 12286,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "template/css/main.scss",
-			"settings":
-			{
-				"buffer_size": 19532,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "template/js/main.js",
-			"settings":
-			{
-				"buffer_size": 1671,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "template/css/main.css",
-			"settings":
-			{
-				"buffer_size": 12081,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/LESS-build/LESS.sublime-build",
 	"command_palette":
@@ -736,6 +704,10 @@
 	},
 	"file_history":
 	[
+		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/index.html",
+		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/css/main.scss",
+		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/css/main.css",
+		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/js/main.js",
 		"/home/faebser/workspace/makerfare/template/img/panorama1bearb.jpg",
 		"/home/faebser/workspace/makerfare/template/css/main.css",
 		"/home/faebser/workspace/makerfare/template/index.html",
@@ -938,120 +910,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "template/index.html",
-					"settings":
-					{
-						"buffer_size": 12286,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								882,
-								882
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 102.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "template/css/main.scss",
-					"settings":
-					{
-						"buffer_size": 19532,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6253,
-								6253
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2899.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "template/js/main.js",
-					"settings":
-					{
-						"buffer_size": 1671,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								582,
-								582
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "template/css/main.css",
-					"settings":
-					{
-						"buffer_size": 12081,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5952,
-								5952
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 714.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
