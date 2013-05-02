@@ -149,7 +149,7 @@ $font-serif: 'TitilliumText25L250wt', Georgia, serif;
 $font-light: 'TitilliumText25L1wt';
 
 @mixin background-opacity($color, $opacity: 0.3) {
-    background: $color; /* The Fallback */
+    background: $color;
     background: rgba($color, $opacity);
 }
 
@@ -157,6 +157,19 @@ $font-light: 'TitilliumText25L1wt';
 
 body {
     margin-bottom: 5em;
+    .transition {
+        -webkit-transform: translatez(0);
+        -webkit-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+        -moz-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+        -ms-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+        -o-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+        transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+        -webkit-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+        -moz-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+        -ms-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+        -o-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+        transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+    }
     #main {
         color: #424242;
         margin: 2em auto 0 auto;
@@ -174,6 +187,18 @@ body {
             img {
                 position: relative;
             }
+            #menuContainer {
+                width: 100%;
+               &.fixed {
+                    position: fixed;
+                    max-width: 900px;
+                    top: 0.2em;
+                    z-index: 10;
+                    a {
+                        display: block;
+                    }
+                } 
+            }      
             ul {
                 list-style-type: none;
                 margin: 0;
@@ -206,15 +231,6 @@ body {
                         }
                     }
                 }
-                &.fixed {
-                    position: fixed;
-                    max-width: 900px;
-                    top: 0.2em;
-                    & + a {
-                        display: block;
-                        position: fixed;
-                    }
-                }
                 & + a {
                     display: none;
                     width: 100%;
@@ -233,14 +249,87 @@ body {
             }
         }
         #content {
+            #sliderOuter {
+                width: 100%;
+                overflow: hidden;
+                #slider {
+                    list-style-type: none;
+                    margin: 1em 0 0 0;
+                    padding: 0;
+                    li {
+                        max-width: 900px;
+                        width: 100%;
+                        margin-bottom: 1em;
+                        img {
+                            max-width: 100%;
+                        }
+                        .sliderInfo {
+                            padding: 1em;
+                            @include background-opacity($grau, 0.85);
+                            h3 {
+                                margin-top: 0;
+                            }
+                            p {
+                                margin-bottom: 0;
+                                font-family: $font-bold;
+                                font-size: 0.91em;
+                            }
+                        }
+                    }
+                }
+                &.sliderReady {
+                    #slider {
+                        width: 500%;
+                        -webkit-transform: translatez(0);
+                        -webkit-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                        -moz-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                        -ms-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                        -o-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                        transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                        -webkit-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                        -moz-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                        -ms-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                        -o-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                        transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                        li {
+                            float: left;
+                            margin-bottom: 0;
+                            position: relative;
+                            .sliderInfo {
+                                position: absolute;
+                                left: 0px;
+                                bottom: 0px;
+                                opacity: 0;
+                                -webkit-transform: translatez(0);
+                                -webkit-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                                -moz-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                                -ms-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                                -o-transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                                transition: all 800ms cubic-bezier(0.77,0,0.175,1);
+                                -webkit-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                                -moz-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                                -ms-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                                -o-transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                                transition-timing-function: cubic-bezier(0.77,0,0.175,1);
+                            }
+                            &:hover {
+                                .sliderInfo {
+                                    opacity: 1;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
             article {
-                margin: 5px auto;
+                padding: 0 0 0.6em 0;
+                margin: 0 auto;
                 border-bottom: 1px solid $grau;
                 h1 {
                     color: $gelb;
                     font-size: 3.4em;
                     padding-left: 0.55em;
-                    margin: 0.67em 0 0.2em 0;
+                    margin: 1.2em 0 0.4em 0;
                 }
                 h2 {
                     font-size: 1.38em;
@@ -288,7 +377,7 @@ body {
                             }
                         }
                     }
-                    &.clickable {
+                    &.clickable h2 {
                         cursor: pointer;
                     }
                     h2 {
@@ -317,6 +406,7 @@ body {
                         padding: 1em;
                         margin: 0 0 1em 1em;
                         line-height: 1;
+                        font-size: 0.88em;
                         font-family: $font-light;
                         p {
                             margin: 0.1em;

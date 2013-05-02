@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"cl",
+				"clickable"
+			],
+			[
+				"i",
+				"inactive"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
 				"san",
 				"font-sans"
 			],
@@ -368,10 +384,6 @@
 				"addX(x)	main.js"
 			],
 			[
-				"fu",
-				"function"
-			],
-			[
 				"ele",
 				"element"
 			],
@@ -502,18 +514,6 @@
 			[
 				"artic",
 				"articles"
-			],
-			[
-				"resize",
-				"resizeMap()	main.js"
-			],
-			[
-				"width",
-				"widthRatio"
-			],
-			[
-				"up",
-				"updateMap()	main.js"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 11118,
+				"buffer_size": 11123,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,15 +531,15 @@
 			"file": "template/css/main.scss",
 			"settings":
 			{
-				"buffer_size": 12145,
+				"buffer_size": 14984,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "template/css/main.css",
+			"file": "template/js/main.js",
 			"settings":
 			{
-				"buffer_size": 9977,
+				"buffer_size": 571,
 				"line_ending": "Unix"
 			}
 		}
@@ -547,9 +547,17 @@
 	"build_system": "Packages/LESS-build/LESS.sublime-build",
 	"command_palette":
 	{
-		"height": 332.0,
+		"height": 56.0,
 		"selected_items":
 		[
+			[
+				"set sy jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
 			[
 				"html",
 				"HTML: Encode Special Characters"
@@ -568,10 +576,6 @@
 			],
 			[
 				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"install ",
 				"Package Control: Install Package"
 			],
 			[
@@ -613,10 +617,6 @@
 			[
 				"st html",
 				"Set Syntax: HTML5"
-			],
-			[
-				"set sy jq",
-				"Set Syntax: jQuery (JavaScript)"
 			],
 			[
 				"insta ",
@@ -711,7 +711,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 561.0
+		"width": 453.0
 	},
 	"console":
 	{
@@ -728,9 +728,9 @@
 	},
 	"file_history":
 	[
+		"/home/faebser/workspace/makerfare/template/css/main.css",
 		"/home/faebser/workspace/makerfare/template/index.html",
 		"/home/faebser/workspace/makerfare/template/css/main.scss",
-		"/home/faebser/workspace/makerfare/template/css/main.css",
 		"/home/faebser/workspace/makerfare/index.html",
 		"/home/faebser/OIworkspace/unserstadtbild.ch/trunk/docroot/stadtbild/js/content.js",
 		"/home/faebser/OIworkspace/theamberroom/images/fromtheamberrom.gif",
@@ -814,6 +814,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n	",
+			"});\n",
+			"                        \n",
+			";\n",
 			"text",
 			"console.log",
 			"console.log(video.attr(\"autoplay\"));",
@@ -925,7 +929,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -933,15 +937,15 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 11118,
+						"buffer_size": 11123,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9600,
-								9600
+								11123,
+								11123
 							]
 						],
 						"settings":
@@ -951,7 +955,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2193.0,
+						"translation.y": 2652.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -961,15 +965,15 @@
 					"file": "template/css/main.scss",
 					"settings":
 					{
-						"buffer_size": 12145,
+						"buffer_size": 14984,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7970,
-								7970
+								8457,
+								8457
 							]
 						],
 						"settings":
@@ -979,35 +983,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4426.0,
+						"translation.y": 4528.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "template/css/main.css",
+					"file": "template/js/main.js",
 					"settings":
 					{
-						"buffer_size": 9977,
+						"buffer_size": 571,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								887,
-								887
+								516,
+								516
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3315.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
