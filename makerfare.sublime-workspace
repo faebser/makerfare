@@ -4,16 +4,60 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding"
+			],
+			[
+				"sli",
+				"sliderElements"
+			],
+			[
+				"sl",
+				"sliderElements"
+			],
+			[
+				"slider",
+				"sliderElements"
+			],
+			[
+				"sliderE",
+				"sliderElementWidth"
+			],
+			[
+				"sliderEle",
+				"sliderElementsAmount"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"slid",
+				"sliderReady"
+			],
+			[
+				"cli",
+				"clickable"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
 				"cl",
 				"clickable"
 			],
 			[
 				"i",
 				"inactive"
-			],
-			[
-				"fu",
-				"fun	Function"
 			],
 			[
 				"rea",
@@ -26,14 +70,6 @@
 			[
 				"tex",
 				"text-decoration"
-			],
-			[
-				"marg",
-				"margin-top"
-			],
-			[
-				"mar",
-				"margin"
 			],
 			[
 				"back",
@@ -60,16 +96,8 @@
 				"line-height"
 			],
 			[
-				"margin",
-				"margin-left"
-			],
-			[
 				"margin-",
 				"margin-top"
-			],
-			[
-				"padding",
-				"padding-top"
 			],
 			[
 				"border",
@@ -486,34 +514,6 @@
 			[
 				"template",
 				"templatePath	(global, instance)"
-			],
-			[
-				"basePath",
-				"basePath	(global, instance)"
-			],
-			[
-				"path",
-				"path	(imported, module)"
-			],
-			[
-				"lastm",
-				"lastMenuPos"
-			],
-			[
-				"widt",
-				"width"
-			],
-			[
-				"background",
-				"background-color"
-			],
-			[
-				"articl",
-				"articles"
-			],
-			[
-				"artic",
-				"articles"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 11123,
+				"buffer_size": 12286,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "template/css/main.scss",
 			"settings":
 			{
-				"buffer_size": 14984,
+				"buffer_size": 19532,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,15 @@
 			"file": "template/js/main.js",
 			"settings":
 			{
-				"buffer_size": 571,
+				"buffer_size": 1671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/css/main.css",
+			"settings":
+			{
+				"buffer_size": 12081,
 				"line_ending": "Unix"
 			}
 		}
@@ -728,6 +736,7 @@
 	},
 	"file_history":
 	[
+		"/home/faebser/workspace/makerfare/template/img/panorama1bearb.jpg",
 		"/home/faebser/workspace/makerfare/template/css/main.css",
 		"/home/faebser/workspace/makerfare/template/index.html",
 		"/home/faebser/workspace/makerfare/template/css/main.scss",
@@ -937,15 +946,15 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 11123,
+						"buffer_size": 12286,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11123,
-								11123
+								882,
+								882
 							]
 						],
 						"settings":
@@ -955,7 +964,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2652.0,
+						"translation.y": 102.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -965,15 +974,15 @@
 					"file": "template/css/main.scss",
 					"settings":
 					{
-						"buffer_size": 14984,
+						"buffer_size": 19532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8457,
-								8457
+								6253,
+								6253
 							]
 						],
 						"settings":
@@ -983,7 +992,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4528.0,
+						"translation.y": 2899.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -993,23 +1002,52 @@
 					"file": "template/js/main.js",
 					"settings":
 					{
-						"buffer_size": 571,
+						"buffer_size": 1671,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								516,
-								516
+								582,
+								582
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "template/css/main.css",
+					"settings":
+					{
+						"buffer_size": 12081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5952,
+								5952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
