@@ -152,6 +152,11 @@ $font-light: 'TitilliumText25L1wt';
     background: $color;
     background: rgba($color, $opacity);
 }
+@mixin inlineblock() {
+    display: inline;
+    zoom: 1;
+    display: inline-block;
+}
 
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
@@ -192,7 +197,9 @@ body {
                &.fixed {
                     position: fixed;
                     max-width: 900px;
-                    top: 0.2em;
+                    background-color: #fff;
+                    top: 0;
+                    padding-top: 0.2em;
                     z-index: 10;
                     a {
                         display: block;
@@ -207,9 +214,7 @@ body {
                 li {
                     width: 25%;
                     text-align: center;
-                    display: inline;
-                    zoom: 1;
-                    display: inline-block;
+                    @include inlineblock;
                     background: $grau;
                     border-left: 1px solid $weiss;
                     line-height: 1.7;
@@ -238,7 +243,7 @@ body {
                     background: $grau;
                     margin: 2px 0 0 0;
                     color: $weiss;
-                    font-weight: bold;
+                    font-family: $font-bold;
                     text-decoration: none;
                     &:hover {
                         color: $gelb;
@@ -358,11 +363,9 @@ body {
                 .block {
                     width: 48.5%;
                     margin-right: 3%;
-                    display: inline;
-                    zoom: 1;
-                    display: inline-block;
+                    @include inlineblock;
                     vertical-align: top;
-                    &:nth-child(2n) {
+                    &.even {
                         margin-right: 0;
                     }
                     &.inactive {
@@ -393,10 +396,26 @@ body {
                         padding: 0;
                         li {
                             font-family: $font-serif;
-                            span {
-                                font-weight: bold;
+                            margin: 0 0 0.7em 0;
+                            & > * {
                                 margin-left: 1em;
-                                padding: 0.5em;
+                            }
+                            span {
+                                margin: 0 0 0.2em 0;
+                                font-family: $font-bold;
+                                @include inlineblock;
+                                width: 25%;
+                            }
+                            p {
+                                margin: 0 0 0 26%;
+                                padding: 0;
+                            }
+                            ul {
+                                margin: 0;
+                                li {
+                                    margin: 0;
+                                    padding: 0;
+                                }
                             }
                         }
                     }

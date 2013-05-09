@@ -5,25 +5,37 @@
 	</li>
 		<li>
 		<span>Makerlab</span>
-		</li>
-			<li>
-			<p>3D Printer / Open Source Lasercutter</p>
-			</li>
+			<ul>
+				<li>
+				<p>3D Printer / Open Source Lasercutter</p>
+				</li>
 				<li>
 				<p>Sun Engraving / Traumzelt</p>
 				</li>
-					<li>
-					<p>Digital Hacker-Stitching</p>
-					</li>
-		<span>Art</span>
-		<li>
-		<p>Streetart, Green Graffiti</p>
+				<li>
+				<p>Digital Hacker-Stitching</p>
+				</li>
+			</ul>
 		</li>
-		<span>Theorie</span>
+			
 		<li>
-		<p>Future&amp;my self</p>
+			<span>Art</span>
+			<ul>
+				<li>
+					<p>Streetart, Green Graffiti</p>
+				</li>
+			</ul>
 		</li>
 		<li>
-		<p>Denk-Ding (nachhaltiges Design)</p>
+			<span>Theorie</span>
+			<ul>
+				<li>
+				<p>Future&amp;my self</p>
+				</li>
+				<li>
+				<p>Denk-Ding (nachhaltiges Design)</p>
+				</li>
+			</ul>
 		</li>
+
 </ul>

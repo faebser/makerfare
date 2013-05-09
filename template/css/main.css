@@ -43,7 +43,7 @@ body #main h1, body #main h2, body #main h3, body #main h4 { font-family: "Titil
 body #main header { width: 100%; }
 body #main header img { position: relative; }
 body #main header #menuContainer { width: 100%; }
-body #main header #menuContainer.fixed { position: fixed; max-width: 900px; top: 0.2em; z-index: 10; }
+body #main header #menuContainer.fixed { position: fixed; max-width: 900px; background-color: #fff; top: 0; padding-top: 0.2em; z-index: 10; }
 body #main header #menuContainer.fixed a { display: block; }
 body #main header ul { list-style-type: none; margin: 0; padding: 0; width: 100%; }
 body #main header ul li { width: 25%; text-align: center; display: inline; zoom: 1; display: inline-block; background: #d4d3c8; border-left: 1px solid white; line-height: 1.7; font-size: 1.3em; }
@@ -51,7 +51,7 @@ body #main header ul li:first-child { border-left: none; }
 body #main header ul li:hover { background-color: #0d8991; }
 body #main header ul li a { font-family: "TitilliumText25L800wt", sans-serif; color: white; text-decoration: none; padding: 0.6em 0; display: block; }
 body #main header ul li a:hover { color: #f5ad00; }
-body #main header ul + a { display: none; width: 100%; text-align: center; background: #d4d3c8; margin: 2px 0 0 0; color: white; font-weight: bold; text-decoration: none; }
+body #main header ul + a { display: none; width: 100%; text-align: center; background: #d4d3c8; margin: 2px 0 0 0; color: white; font-family: "TitilliumText25L400wt", sans-serif; text-decoration: none; }
 body #main header ul + a:hover { color: #f5ad00; background-color: #0d8991; }
 body #main #content #sliderOuter { width: 100%; overflow: hidden; }
 body #main #content #sliderOuter #slider { list-style-type: none; margin: 1em 0 0 0; padding: 0; }
@@ -73,15 +73,19 @@ body #main #content article img.left { float: left; margin-left: 0; }
 body #main #content article img.right { float: right; margin-right: 0; }
 body #main #content article img.full { max-width: 100%; margin: 0.5em 0; }
 body #main #content article .block { width: 48.5%; margin-right: 3%; display: inline; zoom: 1; display: inline-block; vertical-align: top; }
-body #main #content article .block:nth-child(2n) { margin-right: 0; }
+body #main #content article .block.even { margin-right: 0; }
 body #main #content article .block.inactive { overflow: hidden; height: 4em; }
 body #main #content article .block.inactive h2 { background-color: #d4d3c8; color: white; }
 body #main #content article .block.inactive h2:hover { color: #f5ad00; background-color: #0d8991; }
 body #main #content article .block.clickable h2 { cursor: pointer; }
 body #main #content article .block h2 { color: #f5ad00; text-align: center; padding: 0.5em 0; font-size: 1.2em; background-color: #0d8991; }
 body #main #content article .block ul { list-style-type: none; margin: 0; padding: 0; }
-body #main #content article .block ul li { font-family: "TitilliumText25L250wt", Georgia, serif; }
-body #main #content article .block ul li span { font-weight: bold; margin-left: 1em; padding: 0.5em; }
+body #main #content article .block ul li { font-family: "TitilliumText25L250wt", Georgia, serif; margin: 0 0 0.7em 0; }
+body #main #content article .block ul li > * { margin-left: 1em; }
+body #main #content article .block ul li span { margin: 0 0 0.2em 0; font-family: "TitilliumText25L400wt", sans-serif; display: inline; zoom: 1; display: inline-block; width: 25%; }
+body #main #content article .block ul li p { margin: 0 0 0 26%; padding: 0; }
+body #main #content article .block ul li ul { margin: 0; }
+body #main #content article .block ul li ul li { margin: 0; padding: 0; }
 body #main #content article .block .smallInfoBox { float: right; background-color: #d4d3c8; padding: 1em; margin: 0 0 1em 1em; line-height: 1; font-size: 0.88em; font-family: "TitilliumText25L1wt"; }
 body #main #content article .block .smallInfoBox p { margin: 0.1em; }
 body #main #content article .block .course { display: block; background: #d4d3c8; width: 40%; margin: 1em auto; padding: 0.2em; color: white; text-decoration: none; text-align: center; font-family: "TitilliumText25L800wt", sans-serif; }

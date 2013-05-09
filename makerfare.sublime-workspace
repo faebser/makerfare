@@ -4,100 +4,48 @@
 		"selected_items":
 		[
 			[
-				"padding",
-				"padding"
-			],
-			[
-				"sli",
-				"sliderElements"
-			],
-			[
-				"sl",
-				"sliderElements"
-			],
-			[
-				"slider",
-				"sliderElements"
-			],
-			[
-				"sliderE",
-				"sliderElementWidth"
-			],
-			[
-				"sliderEle",
-				"sliderElementsAmount"
-			],
-			[
-				"fu",
-				"fun	Function"
-			],
-			[
 				"slid",
-				"sliderReady"
-			],
-			[
-				"cli",
-				"clickable"
-			],
-			[
-				"marg",
-				"margin"
-			],
-			[
-				"mar",
-				"margin-bottom"
-			],
-			[
-				"margin",
-				"margin-top"
-			],
-			[
-				"cl",
-				"clickable"
-			],
-			[
-				"i",
-				"inactive"
-			],
-			[
-				"rea",
-				"ready	$(document).ready"
-			],
-			[
-				"san",
-				"font-sans"
-			],
-			[
-				"tex",
-				"text-decoration"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
-				"font-",
-				"font-weight"
+				"sliderElements"
 			],
 			[
 				"text",
 				"text-align"
 			],
 			[
-				"bord",
-				"border"
+				"font",
+				"font-serif"
 			],
 			[
-				"font",
-				"font-size"
+				"bac",
+				"background-color"
+			],
+			[
+				"g",
+				"grau"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font-",
+				"font-family"
 			],
 			[
 				"line",
 				"line-height"
 			],
 			[
+				"marg",
+				"margin-right"
+			],
+			[
 				"margin-",
 				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
 			],
 			[
 				"border",
@@ -400,6 +348,10 @@
 				"scroller"
 			],
 			[
+				"back",
+				"backgroundColor"
+			],
+			[
 				"luve",
 				"lukeVector(inputX, inputY)	main.js"
 			],
@@ -410,6 +362,10 @@
 			[
 				"add",
 				"addX(x)	main.js"
+			],
+			[
+				"fu",
+				"function"
 			],
 			[
 				"ele",
@@ -514,45 +470,97 @@
 			[
 				"template",
 				"templatePath	(global, instance)"
+			],
+			[
+				"basePath",
+				"basePath	(global, instance)"
+			],
+			[
+				"path",
+				"path	(imported, module)"
+			],
+			[
+				"lastm",
+				"lastMenuPos"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"articl",
+				"articles"
+			],
+			[
+				"artic",
+				"articles"
+			],
+			[
+				"resize",
+				"resizeMap()	main.js"
+			],
+			[
+				"width",
+				"widthRatio"
+			],
+			[
+				"up",
+				"updateMap()	main.js"
+			],
+			[
+				"luke",
+				"lukeVector"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "template/index.html",
+			"settings":
+			{
+				"buffer_size": 14554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/programm/03_programm.html",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/programm/01_programm",
+			"settings":
+			{
+				"buffer_size": 489,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/LESS-build/LESS.sublime-build",
 	"command_palette":
 	{
-		"height": 56.0,
+		"height": 217.0,
 		"selected_items":
 		[
 			[
-				"set sy jq",
-				"Set Syntax: jQuery (JavaScript)"
-			],
-			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
 				"html",
-				"HTML: Encode Special Characters"
+				"Set Syntax: HTML"
 			],
 			[
-				"char",
-				"HTML: Encode Special Characters"
+				"set sy ht",
+				"Set Syntax: HTML"
 			],
 			[
-				"set sy sc",
-				"Set Syntax: SCSS"
-			],
-			[
-				"set sy htm",
+				"syn ht",
 				"Set Syntax: HTML5"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"instal ",
@@ -563,12 +571,12 @@
 				"Web Inspector"
 			],
 			[
-				"en",
-				"HTML: Encode Special Characters"
+				"install",
+				"Package Control: Install Package"
 			],
 			[
-				"set sy ht",
-				"Set Syntax: HTML5"
+				"en",
+				"HTML: Encode Special Characters"
 			],
 			[
 				"set sy d",
@@ -583,6 +591,10 @@
 				"Set Syntax: HTML5"
 			],
 			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
 				"set sy py",
 				"Set Syntax: Python"
 			],
@@ -593,6 +605,10 @@
 			[
 				"st html",
 				"Set Syntax: HTML5"
+			],
+			[
+				"set sy jq",
+				"Set Syntax: jQuery (JavaScript)"
 			],
 			[
 				"insta ",
@@ -687,7 +703,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 453.0
+		"width": 435.0
 	},
 	"console":
 	{
@@ -704,14 +720,12 @@
 	},
 	"file_history":
 	[
-		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/index.html",
-		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/css/main.scss",
-		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/css/main.css",
-		"/Users/danielavieli/Documents/HYPERWERK2/projekte/MakershopMulhouse/WEBSITE/makershop/template/js/main.js",
-		"/home/faebser/workspace/makerfare/template/img/panorama1bearb.jpg",
-		"/home/faebser/workspace/makerfare/template/css/main.css",
-		"/home/faebser/workspace/makerfare/template/index.html",
 		"/home/faebser/workspace/makerfare/template/css/main.scss",
+		"/home/faebser/workspace/makerfare/template/js/main.js",
+		"/home/faebser/workspace/makerfare/content/kontakt/kontakt",
+		"/home/faebser/workspace/makerfare/content/projekt/makershop",
+		"/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/faebser/workspace/makerfare/template/css/main.css",
 		"/home/faebser/workspace/makerfare/index.html",
 		"/home/faebser/OIworkspace/unserstadtbild.ch/trunk/docroot/stadtbild/js/content.js",
 		"/home/faebser/OIworkspace/theamberroom/images/fromtheamberrom.gif",
@@ -724,7 +738,6 @@
 		"/home/faebser/workspace/luke/WebContent/template/index.html",
 		"/home/faebser/workspace/luke/WebContent/work/elektronikfachgeschaeft_en.txt",
 		"/home/faebser/workspace/luke/WebContent/working/index.html",
-		"/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/faebser/workspace/luke/WebContent/work/atypi_trailer_en.txt",
 		"/home/faebser/workspace/luke/WebContent/work/paketzentrum47_en.txt",
 		"/home/faebser/workspace/luke/WebContent/website/av/paketzentrum47.mp4",
@@ -795,10 +808,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"\n	",
-			"});\n",
-			"                        \n",
-			";\n",
 			"text",
 			"console.log",
 			"console.log(video.attr(\"autoplay\"));",
@@ -910,8 +919,90 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "template/index.html",
+					"settings":
+					{
+						"buffer_size": 14554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7421,
+								7421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2287.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/programm/03_programm.html",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/programm/01_programm",
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1003,6 +1094,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 224.0,
+	"side_bar_width": 187.0,
 	"status_bar_visible": true
 }
