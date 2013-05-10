@@ -1,0 +1,13 @@
+# 
+
+## Design - Prozesse - Transformation
+
+Wie mag die Zukunft unserer Tätigkeit wohl aussehen? Wo trifft Design auf den Transformationsprozess, der ein Selbstverständnis entwickelt, in dem das eigene Tun manifestiert, aber auch reflektiert wird? Wo werden Qualitäten zum Ausdruck gebracht, die durch ein nachhaltiges und gesellschaftlich verzahntes Handeln zu neuen Formen von Design führen? Wie sehen Antworten auf die oder Strategien zur postindustriellen Situation aus? Wo ist der Aufbruch bereits spürbar? Wo macht es Spass, dabei zu sein, ohne dass man sich kritischen Fragen entzieht? 
+
+An einem dreitägigen Festival – einem Mix aus Workshop, MakerLab, Symposium und Event – versuchen wir, dem aktuellen Design-Diskurs ein Gesicht zu geben. Wir wollen herausfinden, welche Werte wir wichtig finden, wie wir agieren und unsere eigene Zukunft gestalten wollen. Dazu bereiten wir mit Mitstreitern wie Du und Ihr es seid, ein vielschichtiges Programm vor. Das Ziel ist nicht klar definiert; vielmehr geht es darum, dass man bereit ist, sich mit gleich und anders Gesinnten auszutauschen - seine Idee und Begrifflichkeit von Design zu erläutern, aber auch im Kontext der Veranstaltung zu erkennen, welches Potenzial es zu entdecken gilt und wie es in den Designkontext zu transferieren wäre. 
+
+Dazu erleben wir Workshops zu Maker-Themen wie: Bambus als nachhaltiger Rohstoff; digitale Produktionsmedien wie 3D-Drucken oder Rapid Prototyping, aber auch Lasercutten und Maschinen, die mit dem Schlagwort „Verantwortbare Produktgestaltung“ kombiniert werden.   
+Ein weiteres Projekt nutzt partizipative Elemente um Träume zu erforschen, und transformative Prozesse zu erleben. Darüber hinaus sind auch Firmen und Projekte eingeladen, die sich vor Ort präsentieren werden. Und es gibt Workshops zum Thema „Build Your Own Future“: Wir gehen dem Thema Selbstentdeckung und Verwirklichung im Alltag als Designer nach. Ein Symposium zum Thema „Verdeutlichung realer Momente des Aufbruchs“ versucht, Fragen und Formen einer zeitgemässen Handlungsebene im Bereich Design und Zukunftsgestaltung nachzugehen. 
+
+Als weiteren Höhepunkt gibt es am Freitag 24. Mai eine Eröffnungsfeier durch den Betreiber Verein motoco und am Abend eine gemütliche Party.   
+Am Samstag findet dann ein Begegnungstag statt, an dem wir Rückschau auf die beiden Vortage halten und dem breiteren Publikum Rede und Antwort stehen können.

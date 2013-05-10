@@ -66,8 +66,7 @@ var ms = (function ($) {
 			console.log("article: " + $(element).attr("id"));
 			$(element).find(classes.block).each( function(index, element2) {
 				var e = $(element2);
-				console.log("index: " + e.index(classes.block));
-				if(e.index() % 2 == 0) {
+				if((index + 1) % 2 == 0) {
 					e.addClass(classes.even);
 				}
 			});
