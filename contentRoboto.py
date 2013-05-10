@@ -7,6 +7,8 @@ import logging as log
 content = path.abspath("content")
 templatePath = None
 targetDir = None
+block = soup("<div class='block'></div>")
+article = soup("<article class='clearfix'></article>")
 
 log.basicConfig(format='%(levelname)s:%(message)s', level=log.DEBUG)
 
@@ -41,3 +43,7 @@ for paths, directories, files in walk(content):
 	log.info("paths: %s", paths)
 	log.info("directories %s", directories)
 	log.info("files: %s", files)
+	for filename in files:
+		if not filename.startswith(".") and filename.endswith(".md"):
+			f = open(path.join(paths, filename))
+			print markdown.markdown(file.read(f))

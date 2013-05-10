@@ -1,4 +1,8 @@
-Denk-Ding
+## Denk-Ding
+
+[Carolin Jablonka, Designerin MA Goldsmith](http://carolinjablonka.de/)
+Gruppengrösse: max. 15
+Anforderungen: keine Vorkenntnisse notwendig
 
 Bei der Annäherung an ein Designprojekt gibt es eine Vielzahl von kreativen Methoden und Prozessen, derer man sich bedienen kann. Prinzipiell variieren diese Methoden in ihren Ursprüngen: zum Beispiel stammen sie aus den Sozialwissenschaften oder der Psychologie und verfolgen demzufolge einen wissenschaftlich-analytischen Ansatz. Andere wiederum entwickeln sich in neuen Räumen und Bereichen, in denen eine strukturelle oder kontextuelle Erforschung angestrebt wird.  
 
@@ -8,8 +12,3 @@ Ich werde diese Methode am makershop vorstellen. Gemeinsam soll dann "gedacht" w
 
 Darüber hinaus lädt ein Lese-Raum dazu ein, einen Blick in kontemporäre (Design-) Philosophie und Theorie zu nehmen.
 
-Gruppengrösse: max. 15
-Anforderungen: keine Vorkenntnisse notwendig
-Anmeldung unter: contact@makershop.in
-
-Workshop-Leitung: Carolin Jablonka, Designerin MA Goldsmith, http://carolinjablonka.de/
