@@ -4,48 +4,112 @@
 		"selected_items":
 		[
 			[
-				"slid",
+				"d",
+				"directories"
+			],
+			[
+				"director",
+				"directory"
+			],
+			[
+				"tem",
+				"templatePath"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"sli",
 				"sliderElements"
+			],
+			[
+				"sl",
+				"sliderElements"
+			],
+			[
+				"slider",
+				"sliderElements"
+			],
+			[
+				"sliderE",
+				"sliderElementWidth"
+			],
+			[
+				"sliderEle",
+				"sliderElementsAmount"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"slid",
+				"sliderReady"
+			],
+			[
+				"cli",
+				"clickable"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cl",
+				"clickable"
+			],
+			[
+				"i",
+				"inactive"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"san",
+				"font-sans"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
 			],
 			[
 				"text",
 				"text-align"
 			],
 			[
+				"bord",
+				"border"
+			],
+			[
 				"font",
-				"font-serif"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"g",
-				"grau"
-			],
-			[
-				"margin",
-				"margin-right"
-			],
-			[
-				"font-",
-				"font-family"
+				"font-size"
 			],
 			[
 				"line",
 				"line-height"
 			],
 			[
-				"marg",
-				"margin-right"
-			],
-			[
 				"margin-",
 				"margin-top"
-			],
-			[
-				"padding",
-				"padding-top"
 			],
 			[
 				"border",
@@ -348,10 +412,6 @@
 				"scroller"
 			],
 			[
-				"back",
-				"backgroundColor"
-			],
-			[
 				"luve",
 				"lukeVector(inputX, inputY)	main.js"
 			],
@@ -362,10 +422,6 @@
 			[
 				"add",
 				"addX(x)	main.js"
-			],
-			[
-				"fu",
-				"function"
 			],
 			[
 				"ele",
@@ -458,62 +514,6 @@
 			[
 				"else",
 				"else	(keyword, instance)"
-			],
-			[
-				"german",
-				"germanPath	(global, instance)"
-			],
-			[
-				"en",
-				"englishPath	(global, instance)"
-			],
-			[
-				"template",
-				"templatePath	(global, instance)"
-			],
-			[
-				"basePath",
-				"basePath	(global, instance)"
-			],
-			[
-				"path",
-				"path	(imported, module)"
-			],
-			[
-				"lastm",
-				"lastMenuPos"
-			],
-			[
-				"widt",
-				"width"
-			],
-			[
-				"background",
-				"background-color"
-			],
-			[
-				"articl",
-				"articles"
-			],
-			[
-				"artic",
-				"articles"
-			],
-			[
-				"resize",
-				"resizeMap()	main.js"
-			],
-			[
-				"width",
-				"widthRatio"
-			],
-			[
-				"up",
-				"updateMap()	main.js"
-			],
-			[
-				"luke",
-				"lukeVector"
 			]
 		]
 	},
@@ -523,44 +523,112 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 14554,
+				"buffer_size": 15766,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/programm/03_programm.html",
+			"file": "template/css/main.scss",
 			"settings":
 			{
-				"buffer_size": 244,
+				"buffer_size": 19532,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/programm/01_programm",
+			"file": "template/js/main.js",
 			"settings":
 			{
-				"buffer_size": 489,
+				"buffer_size": 2492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/faebser/workspace/lukeModularPortfolio/articleRobotDoesTheWork.py",
+			"settings":
+			{
+				"buffer_size": 1368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contentRoboto.py",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/kontakt/kontakt.md",
+			"settings":
+			{
+				"buffer_size": 192,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/workshops/07festival nomad",
+			"settings":
+			{
+				"buffer_size": 934,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"build_system": "Packages/User/MarkedBonusPack1.5/Sublime/Marked.sublime-build",
 	"command_palette":
 	{
-		"height": 217.0,
+		"height": 56.0,
 		"selected_items":
 		[
 			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"install packe",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"set sy jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
 				"html",
-				"Set Syntax: HTML"
+				"HTML: Encode Special Characters"
 			],
 			[
-				"set sy ht",
-				"Set Syntax: HTML"
+				"char",
+				"HTML: Encode Special Characters"
 			],
 			[
-				"syn ht",
+				"set sy sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set sy htm",
 				"Set Syntax: HTML5"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"instal ",
@@ -571,12 +639,12 @@
 				"Web Inspector"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"en",
 				"HTML: Encode Special Characters"
+			],
+			[
+				"set sy ht",
+				"Set Syntax: HTML5"
 			],
 			[
 				"set sy d",
@@ -591,10 +659,6 @@
 				"Set Syntax: HTML5"
 			],
 			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
 				"set sy py",
 				"Set Syntax: Python"
 			],
@@ -605,10 +669,6 @@
 			[
 				"st html",
 				"Set Syntax: HTML5"
-			],
-			[
-				"set sy jq",
-				"Set Syntax: jQuery (JavaScript)"
 			],
 			[
 				"insta ",
@@ -703,7 +763,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 435.0
+		"width": 588.0
 	},
 	"console":
 	{
@@ -720,12 +780,23 @@
 	},
 	"file_history":
 	[
-		"/home/faebser/workspace/makerfare/template/css/main.scss",
-		"/home/faebser/workspace/makerfare/template/js/main.js",
-		"/home/faebser/workspace/makerfare/content/kontakt/kontakt",
 		"/home/faebser/workspace/makerfare/content/projekt/makershop",
-		"/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/faebser/workspace/makerfare/content/programm/03_programm.md",
+		"/home/faebser/workspace/makerfare/content/programm/02_programm.md",
+		"/home/faebser/workspace/makerfare/content/programm/01_programm.md",
+		"/home/faebser/workspace/makerfare/content/programm/.02_programm.md.swp",
+		"/home/faebser/.config/sublime-text-2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/faebser/workspace/makerfare/content/programm/01_programm",
 		"/home/faebser/workspace/makerfare/template/css/main.css",
+		"/home/faebser/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/faebser/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/faebser/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/faebser/workspace/makerfare/contentRoboto.py",
+		"/usr/local/lib/python2.7/dist-packages/bs4/__init__.py",
+		"/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/faebser/workspace/makerfare/template/img/panorama1bearb.jpg",
+		"/home/faebser/workspace/makerfare/template/index.html",
+		"/home/faebser/workspace/makerfare/template/css/main.scss",
 		"/home/faebser/workspace/makerfare/index.html",
 		"/home/faebser/OIworkspace/unserstadtbild.ch/trunk/docroot/stadtbild/js/content.js",
 		"/home/faebser/OIworkspace/theamberroom/images/fromtheamberrom.gif",
@@ -785,7 +856,6 @@
 		"/home/faebser/workspace/resume/WebContent/webfonts/stylesheet.css",
 		"/home/faebser/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/faebser/.config/sublime-text-2/Packages/User/html5bplt.sublime-build",
-		"/home/faebser/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/faebser/Downloads/geki/JuAr_Basel_Background.svg",
 		"/home/faebser/Downloads/geki/js.js",
 		"/home/faebser/Downloads/geki/New Tab.html",
@@ -808,6 +878,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#",
+			"\n	",
+			"});\n",
+			"                        \n",
+			";\n",
 			"text",
 			"console.log",
 			"console.log(video.attr(\"autoplay\"));",
@@ -919,7 +994,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -927,48 +1002,130 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 14554,
+						"buffer_size": 15766,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7421,
-								7421
+								882,
+								882
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2287.0,
+						"translation.y": 102.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "content/programm/03_programm.html",
+					"file": "template/css/main.scss",
 					"settings":
 					{
-						"buffer_size": 244,
+						"buffer_size": 19532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								243,
-								243
+								6253,
+								6253
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2899.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "template/js/main.js",
+					"settings":
+					{
+						"buffer_size": 2492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1850,
+								1850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/faebser/workspace/lukeModularPortfolio/articleRobotDoesTheWork.py",
+					"settings":
+					{
+						"buffer_size": 1368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "contentRoboto.py",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -977,25 +1134,50 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "content/programm/01_programm",
+					"buffer": 5,
+					"file": "content/kontakt/kontakt.md",
 					"settings":
 					{
-						"buffer_size": 489,
+						"buffer_size": 192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								291,
-								126
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "content/workshops/07festival nomad",
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1039,7 +1221,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 148.0
+		"height": 360.0
 	},
 	"output.jslint_result_view":
 	{
@@ -1094,6 +1276,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 187.0,
+	"side_bar_width": 224.0,
 	"status_bar_visible": true
 }
