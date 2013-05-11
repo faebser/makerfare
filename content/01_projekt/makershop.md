@@ -1,5 +1,3 @@
-# 
-
 ## Design - Prozesse - Transformation
 
 Wie mag die Zukunft unserer Tätigkeit wohl aussehen? Wo trifft Design auf den Transformationsprozess, der ein Selbstverständnis entwickelt, in dem das eigene Tun manifestiert, aber auch reflektiert wird? Wo werden Qualitäten zum Ausdruck gebracht, die durch ein nachhaltiges und gesellschaftlich verzahntes Handeln zu neuen Formen von Design führen? Wie sehen Antworten auf die oder Strategien zur postindustriellen Situation aus? Wo ist der Aufbruch bereits spürbar? Wo macht es Spass, dabei zu sein, ohne dass man sich kritischen Fragen entzieht? 
