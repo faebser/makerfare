@@ -37,6 +37,8 @@ textarea { resize: vertical; }
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body { margin-bottom: 5em; }
+body a { color: inherit; text-decoration: none; border-bottom: 1px solid #d4d3c8; }
+body a:hover { color: #d4d3c8; }
 body .transition { -webkit-transform: translatez(0); -webkit-transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1); -moz-transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1); -ms-transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1); -o-transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1); transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1); -webkit-transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); -moz-transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); -ms-transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); -o-transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1); }
 body #main { color: #424242; margin: 1em auto 2em auto; width: 80%; max-width: 900px; }
 body #main h1, body #main h2, body #main h3, body #main h4 { font-family: "TitilliumText25L800wt", sans-serif; font-weight: normal; }
@@ -86,15 +88,17 @@ body #main #content article .block ul li span { margin: 0 0 0.2em 0; font-family
 body #main #content article .block ul li p { margin: 0 0 0 26%; padding: 0; }
 body #main #content article .block ul li ul { margin: 0; }
 body #main #content article .block ul li ul li { margin: 0; padding: 0; }
-body #main #content article .block .smallInfoBox { float: right; background-color: #d4d3c8; padding: 1em; margin: 0 0 1em 1em; line-height: 1; font-size: 0.88em; font-family: "TitilliumText25L1wt"; }
-body #main #content article .block .smallInfoBox p { margin: 0.1em; }
+body #main #content article .block .smallInfoBox { max-width: 230px; float: right; background-color: #d4d3c8; padding: 1em; margin: 0 0 1em 1em; line-height: 1; font-size: 0.88em; font-family: "TitilliumText25L1wt"; }
+body #main #content article .block .smallInfoBox p { margin: 0.3em 0.1em; }
+body #main #content article .block .smallInfoBox a { border-bottom: none; color: black; text-decoration: none; }
+body #main #content article .block .smallInfoBox a:hover { color: #424242; text-decoration: none; }
 body #main #content article .block .course { display: block; background: #d4d3c8; width: 40%; margin: 1em auto; padding: 0.2em; color: white; text-decoration: none; text-align: center; font-family: "TitilliumText25L800wt", sans-serif; }
 body #main #content article .block .course:hover { background-color: #0d8991; color: #f5ad00; }
 body #main #content article#workshops .intro > p { margin-top: 0; font-family: "TitilliumText25L400wt", sans-serif; font-size: 1em; }
-body #main #content article#kontakt ul { margin: 0 0 2em 1em; }
-body #main #content article#kontakt ul li { font-family: "TitilliumText25L800wt", sans-serif; }
-body #main #content article#kontakt ul h3 { margin-top: 0px; }
-body #main #content article#kontakt .responsiveMap { width: 100%; height: 20em; margin: 0 0 1em 0; }
+body #main #content article#anfahrt ul { margin: 0 0 2em 1em; }
+body #main #content article#anfahrt ul li { font-family: "TitilliumText25L800wt", sans-serif; }
+body #main #content article#anfahrt ul h3 { margin-top: 0px; }
+body #main #content article#anfahrt .responsiveMap { width: 100%; height: 20em; margin: 0 0 1em 0; }
 body #main #content article#partner #logos { width: 100%; padding: 0; margin: 0; list-style-type: none; }
 body #main #content article#partner #logos li { display: inline; zoom: 1; display: inline-block; }
 body #main #content article#partner #logos li img { max-width: 100%; max-height: 100%; margin: 0 auto; display: block; }
@@ -105,7 +109,8 @@ body #main #content article#partner #logos li#tri { width: 41%; }
 body #main #content article#partner #logos li#iba { width: 58%; }
 body #main #content article#partner #logos li#eu { width: 20%; }
 body #main #content article#partner #logos li#fhnw { width: 79%; }
-body #main footer { width: 100%; }
+body #main footer { width: 100%; font-family: "TitilliumText25L250wt", Georgia, serif; font-size: 0.9em; }
+body #main footer span { margin-right: 0.9em; }
 
 /* ========================================================================== Helper classes ========================================================================== */
 /* Image replacement */

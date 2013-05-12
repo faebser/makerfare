@@ -3,17 +3,25 @@ from bs4 import BeautifulSoup as soup
 from os import path, walk, remove
 from shutil import copytree
 import logging as log
-from copy import copy
+
+def addMenuItem(nameInLowercase):
+	menuItem = soup(menuElementTemplate)
+	a = menuItem.a
+	a['href'] = "#" + nameInLowercase
+	a.string = nameInLowercase.capitalize();
+	menuContainer.append(menuItem)
 
 content = path.abspath("content")
 templatePath = None
 targetDir = None
 targetHtmlFile = None
+menuContainer = None
 blockTemplate = "<div class='block'></div>"
-articleTemplate = "<article class='clearfix'><h1></h1></article>"
+articleTemplate = "<article class='clearfix'></article>"
 menuElementTemplate = "<li><a></a></li>"
 workshopMailTemplate = "<a class='course' href='mailto:contact@makershop.in'>Anmelden</a>"
 workshopIntroTemplate = "<div class='intro clearfix'></div>"
+menuItemList = ['programm', 'projekt', 'workshops', 'anfahrt']
 
 log.basicConfig(format='%(levelname)s: %(message)s', level=log.DEBUG)
 
@@ -47,8 +55,7 @@ log.info("parsing index.html")
 targetHtmlFile = soup(open(path.join(templatePath, "index.html")), "html.parser")
 
 contentSection = targetHtmlFile.find_all(id = "content")[0]
-
-print contentSection
+menuContainer = targetHtmlFile.find_all(id = "menuContainer")[0].ul
 
 log.info("gathering content")
 
@@ -65,14 +72,16 @@ for paths, directories, files in walk(content):
 		log.info("working on " + nameForArticle)
 		article = soup(articleTemplate, "html.parser").article
 		article['id'] = htmlId
-		article.h1.string = nameForArticle
-		log.info("htmlId: " + htmlId)
-		#print article
 		for filename in files:
 			if not filename.startswith(".") and filename.endswith(".md"):
 				f = open(path.join(paths, filename))
 				htmlContent = soup(markdown.markdown(file.read(f)), "html.parser")
-				if htmlId == "anfahrt":
+				if filename == 'intro.md':
+					log.info("found intro, adding that")
+					article.insert(0, htmlContent)
+					if htmlId in menuItemList:
+						addMenuItem(htmlId)
+				elif htmlId == "anfahrt":
 					log.info("special content: anfahrt")
 					block = soup(blockTemplate, "html.parser").div
 					block.append(htmlContent)
@@ -85,17 +94,25 @@ for paths, directories, files in walk(content):
 						intro = soup(workshopIntroTemplate, "html.parser").div
 						pList = htmlContent.find_all("p")
 						p = pList[0].extract()
+						smallInfoBox = soup("<div class='smallInfoBox'></div>", "html.parser").div
+						for a in p.find_all("a"):
+							a.extract();
+							newP = soup("<p></p>").p
+							newP.append(a)
+							smallInfoBox.append(newP)
+						for item in p.contents:
+							for line in item.string.splitlines():
+								if len(line) > 0:
+									newP = soup("<p></p>").p
+									newP.string = line
+									smallInfoBox.append(newP)
+						intro.append(smallInfoBox)
 						p2 = pList[1].extract()
-						p.name = "div"
-						p['class'] = "smallInfoBox"
-						intro.append(p)
 						intro.append(p2)
 						htmlContent.insert(1, intro)
 						block.append(htmlContent)
 						block.append(soup(workshopMailTemplate, "html.parser"))
 						article.append(block)
-					elif filename == 'intro.md':
-						article.insert(1, htmlContent)
 				elif htmlId == 'projekt':
 					log.info("special content: projekt")
 					article.append(htmlContent)
