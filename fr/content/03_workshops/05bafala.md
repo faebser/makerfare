@@ -1,9 +1,8 @@
-## Experimentierworkshop mit BAFALA
+## Workshop d’expérimentation avec BAFALA
 
-[Yvo Waldmeier, Diplom-Student HyperWerk](http://gemeinschaft.hyperwerk.ch/yvo-waldmeier/)
-Gruppengr&ouml;sse: max. 15
-Anforderungen: Keine Vorkenntnisse notwendig
+[Yvo Waldmeier, HyperWerk](http://gemeinschaft.hyperwerk.ch/yvo-waldmeier/)
+nombre de participants: max 15
 
-Bringen sie Ihre eigenen Ideen mit! Das Basler FabLab in Spe &bdquo; BAFALA&ldquo; tritt als Untergastgeber am makershop auf und stellt seine Ideen, Ziele und Maschinen vor. In einer offenen Diskutierrunde und kreativen Anwendungspraxis gibt BAFALA Einblicke in die Technik und Anwendungsformen, untersucht Kombinationsm&ouml;glichkeiten von 3D Drucker, Drahtbiegemaschine und Arduino mit Materialien wie Bambus, Leder und vielem mehr.
+Idée, buts et machines
 
-Je nach Projekt, vom kleinen Musikinstrument bis zum Festzelt untersuchen wir verschiedene Kombinationsm&ouml;glichkeiten von Kreativpower, Material und Maschinen.
+Apportez vos propres idées! Le FabLab de Bâle dans Spe “BAFALA” se produit comme sous-hôte au makershop et présente ses idées, buts et machines. Dans un cercle de discussion ouvert et la pratique d’application créative BAFALA donne un aperçu dans la technique et les formes d’applications, étude des possibilités de combinaisons de l’imprimante 3D, machines à cintrer de câbles et Arduino avec des matériaux tels le bambou, le cuir et bien plus.

@@ -1,14 +1,12 @@
-## Denk-Ding
+## Thinking-Thing
 
-[Carolin Jablonka, Designerin MA Goldsmith](http://carolinjablonka.de/)
-Gruppengr&ouml;sse: max. 15
-Anforderungen: keine Vorkenntnisse notwendig
+[Carolin Jablonka, MA Design, Goldsmith London](http://carolinjablonka.de/)
+nombre de participants: Max 15
 
-Bei der Ann&auml;herung an ein Designprojekt gibt es eine Vielzahl von kreativen Methoden und Prozessen, derer man sich bedienen kann. Prinzipiell variieren diese Methoden in ihren Urspr&uuml;ngen: zum Beispiel stammen sie aus den Sozialwissenschaften oder der Psychologie und verfolgen demzufolge einen wissenschaftlich-analytischen Ansatz. Andere wiederum entwickeln sich in neuen R&auml;umen und Bereichen, in denen eine strukturelle oder kontextuelle Erforschung angestrebt wird.  
+À l’approche d’un projet de design, il existe une multitude de méthodes et de processus créatifs, dont on peut se servir. Par principe ces méthodes varient dans leurs origines :
+par exemple, si ils proviennent des sciences sociales ou de la psychologie ils poursuivent une approche scientifique et analytique. D’autres, par contre, se developpent dans de nouveaux espaces et domaines dans lesquels une recherche structurale et contextuelle est aspirée.
 
-Denk-Ding ist ein Denkmodell, das dabei helfen kann, die reichhaltigen und mannigfaltigen Kontexte eines Projekts auszuloten. Es regt dazu an, einzelne individuelle aber potentiell verbindende Knotenpunkte und Beziehungen eines Projekts zu erkunden. Das Modell besteht aus Bildern, die eine Liste von Anliegen repr&auml;sentieren. Diese Liste erfasst die Bereiche Ethik, Produktion, Gebrauch, Menschen, Dinge, Raum und Zeit. So wird ein ganzheitlicher Blick er&ouml;ffnet, durch den ein Projekt ergiebig erkundet werden kann. Die erkundbaren Zwischenr&auml;ume sind dabei die ausschlaggebenden Bestandteile.
+Thinking - Thing est un modèle conceptuel qui peut cous aider à sonder les contextes riches et variés d’un projet. Cela stimule à explorer les noeuds de connexion individuels et les relations d’un projet. Le modèle se compose d’images qu’une liste d’ajustements représente. Cette liste répertorie les domaines de l’éthique, de la production, de l’utilisation, des gens, des choses, du temps et de l’espace. Ainsi une approche holistique est ouverte, à travers de laquelle un projet peut être exploré considérablement. Les espaces explorables sont les ingrédients essentiels.
+Je vais vous présenter cette méthode au makershop. Ensemble nous devrions alors raisonner .
 
-Ich werde diese Methode am makershop vorstellen. Gemeinsam soll dann &quot;gedacht&quot; werden.
-
-Dar&uuml;ber hinaus l&auml;dt ein Lese-Raum dazu ein, einen Blick in kontempor&auml;re (Design-) Philosophie und Theorie zu nehmen.
-
+En outre, une salle de lecture vous invite à jeter un oeil à la (Design-) Philosophie comtemporaine et à la théorie.

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ht",
+				"htmlContent"
+			],
+			[
 				"work",
 				"workshops"
 			],
@@ -18,10 +22,6 @@
 			[
 				"bo",
 				"border"
-			],
-			[
-				"ht",
-				"htmlId"
 			],
 			[
 				"cont",
@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "template/index.html",
+			"file": "fr/website/index.html",
 			"settings":
 			{
-				"buffer_size": 2885,
+				"buffer_size": 18961,
 				"line_ending": "Unix"
 			}
 		}
@@ -534,6 +534,10 @@
 		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			],
 			[
 				"en",
 				"HTML: Encode Special Characters"
@@ -752,6 +756,29 @@
 	},
 	"file_history":
 	[
+		"/home/faebser/workspace/makerfare/de/website/index.html",
+		"/home/faebser/workspace/makerfare/fr/contentRoboto.py",
+		"/home/faebser/workspace/makerfare/de/contentRoboto.py",
+		"/home/faebser/workspace/makerfare/fr/template/index.html",
+		"/home/faebser/workspace/makerfare/de/template/index.html",
+		"/home/faebser/workspace/makerfare/fr/content/01_projekt/makershop.md",
+		"/home/faebser/workspace/makerfare/fr/content/02_programm/01_programm.md",
+		"/home/faebser/workspace/makerfare/fr/content/02_programm/02_programm.md",
+		"/home/faebser/workspace/makerfare/fr/content/02_programm/03_programm.md",
+		"/home/faebser/workspace/makerfare/fr/content/01_projekt/motoco.md",
+		"/home/faebser/workspace/makerfare/fr/content/02_programm/intro.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/07festival_nomad.md",
+		"/home/faebser/workspace/makerfare/fr/content/04_anfahrt/intro.md",
+		"/home/faebser/workspace/makerfare/fr/content/05_partner/intro.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/06sunbundling.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/05bafala.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/04bamboo_it_yourself.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/03denk-ding.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/02green_graffiti.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/01turtlecraft.md",
+		"/home/faebser/workspace/makerfare/fr/content/01_projekt/intro.md",
+		"/home/faebser/workspace/makerfare/template/index.html",
+		"/home/faebser/workspace/makerfare/website/publish/css/b0104b6.css",
 		"/home/faebser/workspace/makerfare/template/index.htmlbak",
 		"/home/faebser/workspace/makerfare/contentRoboto.py",
 		"/home/faebser/workspace/makerfare/website/index.html",
@@ -772,7 +799,6 @@
 		"/home/faebser/workspace/makerfare/template/files/PrePresse_Introtext_DE.pdf",
 		"/home/faebser/workspace/makerfare/template/files/Makershop_falzbroschuere_dts.pdf",
 		"/home/faebser/workspace/makerfare/template/js/main.js",
-		"/home/faebser/workspace/makerfare/template/index.html",
 		"/home/faebser/workspace/makerfare/content/02_programm/03_programm.md",
 		"/home/faebser/workspace/makerfare/content/02_programm/02_programm.md",
 		"/home/faebser/workspace/makerfare/content/02_programm/01_programm.md",
@@ -857,19 +883,7 @@
 		"/home/faebser/Downloads/Trainingsstrecken_97-138_Lehrerversion_2012-12-06.docx",
 		"/home/faebser/workspace/luke/WebContent/css/normalize.css",
 		"/home/faebser/workspace/luke/WebContent/css/stylesheet.css",
-		"/home/faebser/workspace/luke/WebContent/css/main.css",
-		"/home/faebser/OIworkspace/lso-sketch/lso.sublime-project",
-		"/home/faebser/workspace/resume/WebContent/resume.sublime-project",
-		"/home/faebser/workspace/resume/WebContent/webfonts/stylesheet.less",
-		"/home/faebser/workspace/resume/WebContent/css/normalize.less",
-		"/home/faebser/workspace/resume/WebContent/webfonts/stylesheet.css",
-		"/home/faebser/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-		"/home/faebser/.config/sublime-text-2/Packages/User/html5bplt.sublime-build",
-		"/home/faebser/Downloads/geki/JuAr_Basel_Background.svg",
-		"/home/faebser/Downloads/geki/js.js",
-		"/home/faebser/Downloads/geki/New Tab.html",
-		"/home/faebser/Downloads/geki/juarBackgroundSvg.js",
-		"/home/faebser/Downloads/geki/raphael/raphael.js"
+		"/home/faebser/workspace/luke/WebContent/css/main.css"
 	],
 	"find":
 	{
@@ -1011,18 +1025,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "template/index.html",
+					"file": "fr/website/index.html",
 					"settings":
 					{
-						"buffer_size": 2885,
+						"buffer_size": 18961,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2532,
-								2532
+								970,
+								970
 							]
 						],
 						"settings":
@@ -1031,7 +1045,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 619.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

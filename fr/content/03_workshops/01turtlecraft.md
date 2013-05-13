@@ -1,11 +1,10 @@
-## TurtleCraft Workshop
+## Turtle Craft
 
 [Martin Schneider, Creative Coder](http://www.k2g2.org/blog:bit.craft)
-Gruppengr&ouml;sse: max. 15
-Anforderungen: keine Vorkenntnisse notwendig
-Mitbringen: Computer, Laptop, wer mag Hoodies
+nombre participateurs: 15
 
-Von gestickten Faden-Bildern zu fraktalen Mustern.
+Des images de fils brodés aux modèles fractales
 
-Wir erzeugen Stickmuster im Browser und besticken dann alles was nicht Niet und Nagelfest ist: Anstecker aus Lochblech, Alte Fahrradfelgen, oder eure mitgebrachten Hoodies.
-Ihr lernt die Turtlecraft-Sandbox kennen, und Martin Schneider zeigt euch, wie man mit etwas Mathematik, Algorithmen und kleinen Schildkr&ouml;ten komplexe Stick-Muster generieren kann.
+Nous produirons des modèles de broderies dans le navigateur et garnirons de broderies tout ce qui n’est pas riveté ou cloué : pins en tôle perforée, vieilles jantes de bicyclette, ou alors prenez avec vous votre sweat à capuche.
+Vous ferez connaissance avec TurtleCraft et Martin Schneider vous montrera comment produire de la broderie complexe avec des modèles utilisants des mathématiques, des algorithmes et de mignones petites tortues.
+Amenez s’il vous plait vos propres ordinateurs portables. Le matériel de bricolage sera fourni.

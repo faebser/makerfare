@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^makershop\.in$
+RewriteRule (.*) http://www.makershop.in/$1 [R=301,L]
+RewriteRule ^$ mulhouse [L]

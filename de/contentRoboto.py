@@ -83,7 +83,7 @@ for paths, directories, files in walk(content):
 					log.info("found intro, adding that")
 					article.insert(0, htmlContent)
 					if htmlId in menuItemList:
-						addMenuItem(htmlId)
+						addMenuItem(htmlContent.h1.string.lower())
 				elif htmlId == "anfahrt":
 					log.info("special content: anfahrt")
 					block = soup(blockTemplate, "html.parser").div

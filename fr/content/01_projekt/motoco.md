@@ -1,20 +1,20 @@
 <img src="img/makerbot.jpg" class="full">
-### Was will motoco?
+### Qu'est-ce que motoco?
 
-Der nicht profitorientierte Verein motoco will eine offene Laborsituation schaffen zu Aspekten einer postindustriellen Gesellschaft. Konkret geschieht dies durch im Rahmen der Umnutzung einer Fabrik – der Umbauprozess wirkt als unsere Versuchsanlage, um uns projektorientiert mit Bildung, Arbeit und Technologien auseinanderzusetzen. 
+L'association à but non lucratif motoco veut créer un laboratoire ouvert sur la société post-industrielle. Concrètement, cela se fait par la conversion d'une usine - le processus de conversion agit comme notre centre de test pour nous confronter à l'éducation axée sur les projets, du travail et de la technologie.
 
-### Aufbauarbeit
+### Travaux de construction
 
-Initiativen und Institutionen aus Bildung und Wirtschaft werden durch partnerschaftliche Projekte in die Gemeinschaft von motoco eingebunden. Dazu werden offene Studiengänge konzipiert, Dachgärten und Werkstätten eingerichtet, Festivals organisiert, Sitzöfen gemauert, open-Air Theaterräume eingerichtet, Forschungsmittel angeworben.
+Des partenaires éducatifs et économiques sont impliqués dans tous les projets motoco. C'est ensemble que nous voulons réaliser des ateliers de fabrication pilotes, des études culturelles, des festivals, d'énormes poêles en briques, des plantations de bambou.
 
-### Transformationsprozess
+### Processus de transformation
 
-Im Verbund mit Berufsschulen, jungen Unternehmen und Hochschulen, soll von motoco auf dem DMC-Gelände ein Ort des gesellschaftlichen Experiments geschaffen werden. motoco wird aktuell als trinationales Kulturprojekt mit triptic-Mitteln gefördert und inhaltlich durch die Experten der Internationalen Bauausstellung IBA Basel 2020 begleitet.
+En collaboration avec les écoles professionnelles, les jeunes entreprises et les universités un lieu d'expérimentation sociale sera créé sur le site DMC. motoco est actuellement promu comme un projet culturel tri-nationale avec les ressources du programme tri-régionale Triptic accompagné par les experts de l'IBA Basel 2020.
 
-### Finanzierungsmodell
+### Financement
 
-Ein Großteil der Arbeiten soll auf ehrenamtlicher Basis von den zukünftigen Mietpartnern sowie von beteiligten Berufsschulen und sozialen Integrationsprojekten geleistet werden. So kann von bezahlbaren Mieten für sicherheitstechnisch zulässige und attraktive Räume ausgegangen werden.
+Il est prévu que les matériaux pour la rénovation et la location de matériel de construction seront financés par le propriétaire, pendant qu’une grande partie du travail sera réalisé sur la base du bénévolat  par les partenaires du projet ainsi que par la participation d’écoles professionnelles et de projets d'insertion sociale. Grâce à une telle coopération, les conditions financières deviennent abordables et prévisibles.
 
-### Projektleitung & Hauptmieter
+### Maîtrise de projet
 
-Der Prozess wird getragen und geleitet durch motoco. Der Verein wirkt als Bauleiter und Hauptmieter. Dank einer früh im Prozess einsetzenden, hohen Sichtbarkeit und der integrierenden Vorgehensweise vermag motoco Untermietverträge mit attraktiven Partnern vorzulegen. Der Einzug in das minimal umgebaute Gebäude ist auf Herbst 2014 vorgesehen.
+Le processus est soutenu et guidé par motoco. L'association agit en tant que superviseur du chantier et comme locataire principal. L’implication en amont des partenaires permettra la mise en place d'un collectif efficace. Par exemple, avec la Kunsthalle Mulhouse et les écoles des beaux arts associées au projet, et aussi avec de nombreuses jeunes entreprises, émergeant des hautes écoles de l’Est, de la Suisse et de l’Allemagne. Le déménagement dans le bâtiment modifié est prévue en automne 2014.

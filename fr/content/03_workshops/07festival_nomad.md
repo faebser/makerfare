@@ -1,9 +1,8 @@
 ## Festival Nomad
 
-[David Baur, Diplom-Student HyperWerk](http://gemeinschaft.hyperwerk.ch/david-baur/)
-Gruppengr&ouml;&szlig;e: 5 Personen
-Anforderungen: Keine Vorkenntnisse notwendig
+[David Baur, HyperWerk](http://gemeinschaft.hyperwerk.ch/david-baur/)
+nombre de participants: max 15
 
-Einf&uuml;hrung in die Welt des Klartraumes. Spielerisch, tr&auml;umend die Zukunft gestalten &ndash; Festival Nomad versucht im Rahmen von bestehenden Kreativfestivals das sch&ouml;pferische Potenzial dieser R&auml;ume zu nutzen und zu f&ouml;rdern sowie Ideen und Wege aufzuzeigen, wie diese kreative Grundhaltung auch in den Alltag getragen werden kann. 
+Introduction dans le monde du rêve clair. Ludiquement, créer en rêvant du futur. Festival Nomad tente d’utiliser dans le cadre de festivals créatifs le potentiel créateur des espaces à utiliser, d’encourager des idées et mettre en évidence les chemins. Comment cette position de création principale doit être portée au quotidien. 
 
-In unserem Traumzelt wird kreativ und experimentell mit dem Thema Traum umgegangen. Wir erlernen verschiedene Techniken, damit man den Bewusstseinszustand des Klartraumes erreichen kann &ndash; ein Zustand bei dem man sich des Traumes bewusst wird und ungeahnte sch&ouml;pferische M&ouml;glichkeiten offen stehen hat &ndash; und generieren dadurch Symbole f&uuml;r den Schattenprojektor unseres Traumzeltes.
+Dans notre tente de rêve nous traiterons de façon expérimentale et créative le sujet du rêve. Nous apprendrons les différentes techniques pour atteindre l’état de conscience du rêve clair. Un état où l’on prend conscience du rêve et des possibilités créatrices imprévues qui sont offertes. Générer à travers de symboles pour la lampe d’ombre de notre tente de rêve.

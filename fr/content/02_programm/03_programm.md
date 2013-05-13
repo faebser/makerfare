@@ -1,7 +1,7 @@
-## Samstag 25. Mai
+## Samedi 25 mai 2013
 
-*   <span>11.00 - 16.30</span> Offene Workshops 
+*   <span>11.00 - 16.30</span> Workshops ouverts
 *   <span>11.00 - 16.30</span> Druckbus 
-  * <p>die mobile Siebdruckstation, Taschen und Kleider bedrucken</p>
+  * <p>La station mobile de Sérigraphie, imprimer sur des sacs et des vêtements</p>
 
-<span>Kaffee und Kuchen</span>
+<span>Café et repas</span>

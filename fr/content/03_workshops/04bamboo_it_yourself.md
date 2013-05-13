@@ -1,8 +1,6 @@
 ## Bamboo it yourself
 
-[Pan Thurneysen, Diplom-Student HyperWerk](http://gemeinschaft.hyperwerk.ch/pan-thurneysen/)
-Gruppengr&ouml;sse: max. 15
-Anforderungen: Interesse an Naturwerkstoffen und Lasertechnik
+[Pan Thurneysen, HyperWerk](http://gemeinschaft.hyperwerk.ch/pan-thurneysen/)
+nombre de participants: 10-15
 
-Im Workshop sollen anhand von praktischen Versuchen die Funktionsweise eines Opensource Lasers in Verbindung mit dem Material Bambus erlernt und neue Bearbeitungsformen entwickelt werden.
-Der mit einer Rotations A-Achse erweiterte Lasersaur-Lasercutter er&ouml;ffnet v&ouml;llig neue M&ouml;glichkeiten in Verbindung mit Bambus. Diese wollen wir zusammen herausfinden und Faszinierendes erschaffen
+Grâce à la pratique nous tentons d’expliquer le fonctionnement d’un laser cutter open source au contact du bambou comme matériau et nous développons de nouvelles formes de traitement. Avec une rotation de l’axe A élargissant le laser cutter cela ouvre des possiblités complétement nouvelles avec le bambou. Nous voulons ensemble découvrir et créer du fascinant.
