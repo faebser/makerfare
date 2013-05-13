@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"work",
+				"workshops"
+			],
+			[
+				"html",
+				"htmlId"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ht",
+				"htmlId"
+			],
+			[
+				"cont",
+				"contentSection"
+			],
+			[
+				"target",
+				"targetHtmlFile"
+			],
+			[
+				"con",
+				"contentSection"
+			],
+			[
+				"we",
+				"workshopMailTemplate"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"h",
+				"htmlContent"
+			],
+			[
+				"targ",
+				"targetHtmlFile"
+			],
+			[
+				"n",
+				"nameForArticle"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
 				"max",
 				"max-height"
 			],
@@ -62,10 +118,6 @@
 			[
 				"mar",
 				"margin-bottom"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"cl",
@@ -284,10 +336,6 @@
 				"arrows"
 			],
 			[
-				"ar",
-				"arrows"
-			],
-			[
 				"the",
 				"the-background"
 			],
@@ -432,24 +480,12 @@
 				"element"
 			],
 			[
-				"con",
-				"console"
-			],
-			[
 				"men",
 				"menuContainer"
 			],
 			[
-				"target",
-				"targetFile	(global, instance)"
-			],
-			[
 				"boxe",
 				"boxesTag"
-			],
-			[
-				"targ",
-				"targetFile"
 			],
 			[
 				"wr",
@@ -458,10 +494,6 @@
 			[
 				"sou",
 				"soup	(imported, instance)"
-			],
-			[
-				"work",
-				"workFolder	(global, instance)"
 			],
 			[
 				"file",
@@ -482,38 +514,6 @@
 			[
 				"htm",
 				"htmlFragment	(global, instance)"
-			],
-			[
-				"wor",
-				"workFolder	(global, instance)"
-			],
-			[
-				"templ",
-				"templatePath	(global, instance)"
-			],
-			[
-				"copy",
-				"copytree	(imported, instance)"
-			],
-			[
-				"impor",
-				"import	(keyword, instance)"
-			],
-			[
-				"web",
-				"websiteFolder"
-			],
-			[
-				"html",
-				"html	html"
-			],
-			[
-				"engli",
-				"englishPath	(global, instance)"
-			],
-			[
-				"exi",
-				"exit	(builtin, instance)"
 			]
 		]
 	},
@@ -523,39 +523,7 @@
 			"file": "template/index.html",
 			"settings":
 			{
-				"buffer_size": 16557,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "template/css/main.scss",
-			"settings":
-			{
-				"buffer_size": 21930,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "template/js/main.js",
-			"settings":
-			{
-				"buffer_size": 2492,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/faebser/workspace/lukeModularPortfolio/articleRobotDoesTheWork.py",
-			"settings":
-			{
-				"buffer_size": 1368,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "contentRoboto.py",
-			"settings":
-			{
-				"buffer_size": 1418,
+				"buffer_size": 2885,
 				"line_ending": "Unix"
 			}
 		}
@@ -563,9 +531,41 @@
 	"build_system": "Packages/User/MarkedBonusPack1.5/Sublime/Marked.sublime-build",
 	"command_palette":
 	{
-		"height": 125.0,
+		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"h",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ma pr",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark d pr",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
 			[
 				"set sy mar",
 				"Set Syntax: Markdown"
@@ -599,10 +599,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"html",
-				"HTML: Encode Special Characters"
-			],
-			[
 				"char",
 				"HTML: Encode Special Characters"
 			],
@@ -619,16 +615,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"instal ",
-				"Package Control: Install Package"
-			],
-			[
 				"web",
 				"Web Inspector"
-			],
-			[
-				"en",
-				"HTML: Encode Special Characters"
 			],
 			[
 				"set sy ht",
@@ -719,10 +707,6 @@
 				"HTML: Wrap Selection With Tag"
 			],
 			[
-				"h",
-				"HTML: Encode Special Characters"
-			],
-			[
 				"side",
 				"View: Toggle Side Bar"
 			],
@@ -751,7 +735,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 435.0
+		"width": 561.0
 	},
 	"console":
 	{
@@ -768,6 +752,36 @@
 	},
 	"file_history":
 	[
+		"/home/faebser/workspace/makerfare/template/index.htmlbak",
+		"/home/faebser/workspace/makerfare/contentRoboto.py",
+		"/home/faebser/workspace/makerfare/website/index.html",
+		"/home/faebser/workspace/makerfare/content/03_workshops/05bafala.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/07festival_nomad.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/intro.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/06sunbundling.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/04bamboo_it_yourself.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/03denk-ding.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/02green_graffiti.md",
+		"/home/faebser/workspace/makerfare/content/03_workshops/01turtlecraft.md",
+		"/home/faebser/workspace/makerfare/content/05_partner/intro.md",
+		"/home/faebser/workspace/makerfare/template/css/font/SIL Open Font License 1.1.txt",
+		"/home/faebser/workspace/makerfare/template/css/main.scss",
+		"/home/faebser/workspace/makerfare/content/02_programm/intro.md",
+		"/home/faebser/workspace/makerfare/content/01_projekt/makershop.md",
+		"/home/faebser/workspace/makerfare/template/files/PrePresse_Programm_DE.pdf",
+		"/home/faebser/workspace/makerfare/template/files/PrePresse_Introtext_DE.pdf",
+		"/home/faebser/workspace/makerfare/template/files/Makershop_falzbroschuere_dts.pdf",
+		"/home/faebser/workspace/makerfare/template/js/main.js",
+		"/home/faebser/workspace/makerfare/template/index.html",
+		"/home/faebser/workspace/makerfare/content/02_programm/03_programm.md",
+		"/home/faebser/workspace/makerfare/content/02_programm/02_programm.md",
+		"/home/faebser/workspace/makerfare/content/02_programm/01_programm.md",
+		"/home/faebser/workspace/makerfare/content/01_projekt/motoco.md",
+		"/home/faebser/workspace/makerfare/template/img/panorama1bearb.jpg",
+		"/home/faebser/workspace/lukeModularPortfolio/articleRobotDoesTheWork.py",
+		"/home/faebser/workspace/makerfare/content/04_anfahrt/kontakt.md",
+		"/home/faebser/workspace/makerfare/content/04_anfahrt/map",
+		"/home/faebser/workspace/makerfare/partner.md",
 		"/home/faebser/workspace/makerfare/content/workshops/05bafala.md",
 		"/home/faebser/workspace/makerfare/content/workshops/04bamboo_it_yourself.md",
 		"/home/faebser/workspace/makerfare/content/workshops/01turtlecraft.md",
@@ -790,12 +804,8 @@
 		"/home/faebser/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/faebser/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
 		"/home/faebser/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-		"/home/faebser/workspace/makerfare/contentRoboto.py",
 		"/usr/local/lib/python2.7/dist-packages/bs4/__init__.py",
 		"/home/faebser/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-		"/home/faebser/workspace/makerfare/template/img/panorama1bearb.jpg",
-		"/home/faebser/workspace/makerfare/template/index.html",
-		"/home/faebser/workspace/makerfare/template/css/main.scss",
 		"/home/faebser/workspace/makerfare/index.html",
 		"/home/faebser/OIworkspace/unserstadtbild.ch/trunk/docroot/stadtbild/js/content.js",
 		"/home/faebser/OIworkspace/theamberroom/images/fromtheamberrom.gif",
@@ -877,6 +887,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"htmlString",
+			"soup",
+			"\"",
 			"#",
 			"\n	",
 			"});\n",
@@ -993,7 +1006,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1001,134 +1014,24 @@
 					"file": "template/index.html",
 					"settings":
 					{
-						"buffer_size": 16557,
+						"buffer_size": 2885,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1130,
-								1130
+								2532,
+								2532
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 765.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "template/css/main.scss",
-					"settings":
-					{
-						"buffer_size": 21930,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5339,
-								5339
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2745.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "template/js/main.js",
-					"settings":
-					{
-						"buffer_size": 2492,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1850,
-								1850
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 510.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/faebser/workspace/lukeModularPortfolio/articleRobotDoesTheWork.py",
-					"settings":
-					{
-						"buffer_size": 1368,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								891,
-								891
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 153.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "contentRoboto.py",
-					"settings":
-					{
-						"buffer_size": 1418,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								317,
-								317
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 619.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1224,6 +1127,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 243.0,
+	"side_bar_width": 418.0,
 	"status_bar_visible": true
 }
