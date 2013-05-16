@@ -29,7 +29,7 @@ Die Karte befindet sich in der Datei ```intro.md```. Um sie zu aktualiseren kann
 ### 05_partner
 Die Partner sind ein Spezialfall aufgrund der gewünschten Formatierung. Die Datei ```intro.md``` enthält in diesem Fall reinen HTML-Code. Dieser kann direkt verändert werden. Um ein Link zu einer externen Website hinzuzufügen muss die Linie von    
 ```
-			<li class="row1" id="motoco"><img src="img/logos/motoco.jpg"/></li>
+<li class="row1" id="motoco"><img src="img/logos/motoco.jpg"/></li>
 ```       
 zu      
 ```
