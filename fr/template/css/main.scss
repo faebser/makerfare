@@ -197,6 +197,10 @@ body {
         }
         header {
             width: 100%;
+            a {
+                margin-left: 0.2em;
+                font-family: $font-serif;
+            }
             #mainLogo {
                 margin-bottom: 1em;
                 float: right;

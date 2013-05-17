@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"contentName"
+			],
+			[
+				"margin-lef",
+				"margin-left:   (property)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"sor",
+				"sortDir"
+			],
+			[
+				"dir",
+				"directories"
+			],
+			[
+				"font",
+				"font-serif"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
 				"ht",
 				"htmlContent"
 			],
@@ -30,10 +58,6 @@
 			[
 				"target",
 				"targetHtmlFile"
-			],
-			[
-				"con",
-				"contentSection"
 			],
 			[
 				"we",
@@ -116,10 +140,6 @@
 				"margin"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"cl",
 				"clickable"
 			],
@@ -154,10 +174,6 @@
 			[
 				"bord",
 				"border"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"line",
@@ -498,35 +514,11 @@
 			[
 				"file",
 				"filename	(global, instance)"
-			],
-			[
-				"ope",
-				"open	(builtin, class)"
-			],
-			[
-				"lxml",
-				"lxml	(imported, module)"
-			],
-			[
-				"html5",
-				"html5lib	(imported, module)"
-			],
-			[
-				"htm",
-				"htmlFragment	(global, instance)"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "fr/website/index.html",
-			"settings":
-			{
-				"buffer_size": 18961,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/User/MarkedBonusPack1.5/Sublime/Marked.sublime-build",
 	"command_palette":
@@ -535,11 +527,11 @@
 		"selected_items":
 		[
 			[
-				"ht",
+				"en",
 				"HTML: Encode Special Characters"
 			],
 			[
-				"en",
+				"ht",
 				"HTML: Encode Special Characters"
 			],
 			[
@@ -757,14 +749,21 @@
 	"file_history":
 	[
 		"/home/faebser/workspace/makerfare/de/website/index.html",
-		"/home/faebser/workspace/makerfare/fr/contentRoboto.py",
-		"/home/faebser/workspace/makerfare/de/contentRoboto.py",
+		"/home/faebser/workspace/makerfare/fr/content/02_programm/03_programm.md",
+		"/home/faebser/workspace/makerfare/fr/content/02_programm/02_programm.md",
+		"/home/faebser/workspace/makerfare/fr/content/03_workshops/intro.md",
 		"/home/faebser/workspace/makerfare/fr/template/index.html",
 		"/home/faebser/workspace/makerfare/de/template/index.html",
+		"/home/faebser/workspace/makerfare/fr/contentRoboto.py",
+		"/home/faebser/workspace/makerfare/de/contentRoboto.py",
+		"/home/faebser/workspace/makerfare/de/website/css/main.scss",
+		"/home/faebser/workspace/makerfare/de/template/css/main.scss",
+		"/home/faebser/workspace/makerfare/fr/template/css/main.scss",
+		"/home/faebser/workspace/makerfare/fr/template/css/main.css",
+		"/home/faebser/workspace/makerfare/fr/website/index.html",
+		"/home/faebser/workspace/makerfare/.htaccess",
 		"/home/faebser/workspace/makerfare/fr/content/01_projekt/makershop.md",
 		"/home/faebser/workspace/makerfare/fr/content/02_programm/01_programm.md",
-		"/home/faebser/workspace/makerfare/fr/content/02_programm/02_programm.md",
-		"/home/faebser/workspace/makerfare/fr/content/02_programm/03_programm.md",
 		"/home/faebser/workspace/makerfare/fr/content/01_projekt/motoco.md",
 		"/home/faebser/workspace/makerfare/fr/content/02_programm/intro.md",
 		"/home/faebser/workspace/makerfare/fr/content/03_workshops/07festival_nomad.md",
@@ -876,14 +875,7 @@
 		"/home/faebser/workspace/luke/WebContent/work/elektronikfachgeschäft.txt",
 		"/home/faebser/workspace/faesslerUndHorst/wp-content/themes/faesslerhorst/js/plugins.js",
 		"/home/faebser/workspace/faesslerUndHorst/wp-content/themes/faesslerhorst/js/script.js",
-		"/home/faebser/workspace/cristianTextCounter/text.txt",
-		"/home/faebser/workspace/cristianTextCounter/result.txt",
-		"/home/faebser/workspace/cristianTextCounter/counter.py",
-		"/home/faebser/workspace/cristianTextCounter/python-docx/README.markdown",
-		"/home/faebser/Downloads/Trainingsstrecken_97-138_Lehrerversion_2012-12-06.docx",
-		"/home/faebser/workspace/luke/WebContent/css/normalize.css",
-		"/home/faebser/workspace/luke/WebContent/css/stylesheet.css",
-		"/home/faebser/workspace/luke/WebContent/css/main.css"
+		"/home/faebser/workspace/cristianTextCounter/text.txt"
 	],
 	"find":
 	{
@@ -1020,36 +1012,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "fr/website/index.html",
-					"settings":
-					{
-						"buffer_size": 18961,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								970,
-								970
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1141,6 +1105,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 418.0,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true
 }

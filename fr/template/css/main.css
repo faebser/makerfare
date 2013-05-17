@@ -43,6 +43,7 @@ body .transition { -webkit-transform: translatez(0); -webkit-transition: all 800
 body #main { color: #424242; margin: 1em auto 2em auto; width: 80%; max-width: 900px; }
 body #main h1, body #main h2, body #main h3, body #main h4 { font-family: "TitilliumText25L800wt", sans-serif; font-weight: normal; }
 body #main header { width: 100%; }
+body #main header a { margin-left: 0.2em; font-family: "TitilliumText25L250wt", Georgia, serif; }
 body #main header #mainLogo { margin-bottom: 1em; float: right; }
 body #main header #menuContainer { clear: both; width: 100%; }
 body #main header #menuContainer.fixed { position: fixed; max-width: 900px; background-color: #fff; top: 0; padding-top: 0.2em; z-index: 10; }

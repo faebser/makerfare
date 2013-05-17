@@ -1,5 +1,6 @@
 ## Vendredi 24 mai 2013
 
+* <span>09:30</span> Conférence de presse 
 *   <span>10.00 - 12.00</span> Discours d’ouverture
     * <p>Association motoco et la ville de Mulhouse</p>
 *   <span>11.00 - 13.00</span> Apéro riche avec les Gastronauten 

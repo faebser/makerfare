@@ -1,3 +1,3 @@
 # Workshops
 
-Mit mehreren Workshops, aus verschiedenen Perspektiven zum Thema Design&amp;Transformation, zeigen wir Gestaltungsformen, die junge Designer sich als Ausdrucks- und Arbeitsfelder ausgesucht haben. Teilweise sind es aktuell Diplomierende aus dem Prozesslehrgang vom Hochschulinstitut HyperWerk in Basel aber auch Freischaffende und ehemalige Designstudenten.
+Avec plusieurs ateliers, sur diff&eacute;rentes perspectives sur le th&egrave;me design et transformation, nous montrons les formes de r&eacute;alisation que de jeunes designers ont choisi comme expression et domaines de travail. En partie ce sont des &eacute;tudiants, en ann&eacute;e de dipl&ocirc;me, en cursus &agrave; l&rsquo;institut Hyperwerk &agrave; B&acirc;le mais aussi des ind&eacute;pendants et d&rsquo;anciens &eacute;tudiants en design. 

@@ -4,10 +4,10 @@ from os import path, walk, remove
 from shutil import copytree
 import logging as log
 
-def addMenuItem(nameInLowercase):
+def addMenuItem(nameInLowercase, contentName):
 	menuItem = soup(menuElementTemplate, "html.parser")
 	a = menuItem.a
-	a['href'] = "#" + nameInLowercase
+	a['href'] = "#" + contentName
 	a.string = nameInLowercase.capitalize();
 	menuContainer.append(menuItem)
 
@@ -59,10 +59,15 @@ menuContainer = targetHtmlFile.find_all(id = "menuContainer")[0].ul
 
 log.info("gathering content")
 
+sortDir = False
+
 for paths, directories, files in walk(content):
 	#log.info("paths: %s", paths)
 	#log.info("directories %s", directories)
 	#log.info("files: %s", files)
+	if sortDir == False:
+		directories.sort()
+		sortDir = True
 
 	nameForArticle = paths.split("_")
 	if len(nameForArticle) > 1:
@@ -83,7 +88,7 @@ for paths, directories, files in walk(content):
 					log.info("found intro, adding that")
 					article.insert(0, htmlContent)
 					if htmlId in menuItemList:
-						addMenuItem(htmlContent.h1.string.lower())
+						addMenuItem(htmlContent.h1.string.lower(), htmlId)
 				elif htmlId == "anfahrt":
 					log.info("special content: anfahrt")
 					block = soup(blockTemplate, "html.parser").div
