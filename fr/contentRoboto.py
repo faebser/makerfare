@@ -19,7 +19,7 @@ menuContainer = None
 blockTemplate = "<div class='block'></div>"
 articleTemplate = "<article class='clearfix'></article>"
 menuElementTemplate = "<li><a></a></li>"
-workshopMailTemplate = "<a class='course' href='mailto:contact@makershop.in'>Anmelden</a>"
+workshopMailTemplate = "<a class='course' href='mailto:contact@makershop.in'>annoncer</a>"
 workshopIntroTemplate = "<div class='intro clearfix'></div>"
 menuItemList = ['programm', 'projekt', 'workshops', 'anfahrt']
 
